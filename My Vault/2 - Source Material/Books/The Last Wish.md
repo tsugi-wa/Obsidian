@@ -14,4 +14,6 @@ Not only is there world building - the intertwining of complex human dynamics bo
 
 Through these intriguing situations, Geralt's extraordinary character is on full display. He doesn't hesitate to cut the bullshit and lay down every fact that he knows and doesn't know even though they may be grim. These questions are clearly very dear to Nivellen and king Foltest's hearts, very painful to confront. And Geralt is strategic and logical - he considers even the scheming path offered to him to kill the striga and lie to King Foltest as a possible card to play before deciding there are no signs of the striga being a lost cause. And then comes his most admirable trait - he ends up curing the curses of both monsters instead of trying to kill them or abandoning them like all the other people in this world have done. The striga was festering and terrorizing for 7 years and even other witchers failed to put an end to the mess. Not anyone had the bravery or the ability to empathize with Nivellen's misfortune which only took Geralt a single encounter to do. When Geralt found Verena to be the cause of innocents' deaths and learned she was controlling Nivellen, he didn't hesitate to turn around, risk his life to kill her for no gain, and spare Nivellen.  
 
+##
+
 ### References
