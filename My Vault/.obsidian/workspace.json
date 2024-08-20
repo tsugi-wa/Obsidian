@@ -11,9 +11,11 @@
             "id": "1371cde7726aa526",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Material/attachments/Pasted image 20240816094606.png"
+                "file": "2 - Source Material/Books/The Last Wish.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/attachments/Pasted image 20240816094606.png",
+                "file": "2 - Source Material/Books/The Last Wish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/attachments/Pasted image 20240816094606.png",
+                "file": "2 - Source Material/Books/The Last Wish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/attachments/Pasted image 20240816094606.png"
+                "file": "2 - Source Material/Books/The Last Wish.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -144,12 +147,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "bf4d1882c5896c7c",
+  "active": "633c847996f6bc35",
   "lastOpenFiles": [
-    "2 - Source Material/attachments",
-    "5 - Templates/Main Note.md",
     "1 - Rough Notes/MusicApp Idea.md",
     "1 - Rough Notes/Ideas to follow up.md",
+    "2 - Source Material/attachments/Pasted image 20240816094606.png",
+    "2 - Source Material/attachments",
+    "5 - Templates/Main Note.md",
     "2 - Source Material/Courses/BTTAI Resume Workshop.md",
     "1 - Rough Notes/Daily bike log.md",
     "1 - Rough Notes/Submissions Archive",
@@ -158,7 +162,6 @@
     "2 - Source Material/Books/The Last Wish.md",
     "1 - Rough Notes/Reminders.md",
     "1 - Rough Notes/Submissions Archive/UCLA Music Partnership Application.md",
-    "2 - Source Material/attachments/Pasted image 20240816094606.png",
     "3 - Tags/witcher.md",
     "3 - Tags/pianist life.md",
     "6 - Main Notes",
@@ -172,7 +175,6 @@
     "2 - Source Material/Courses",
     "2 - Source Material/Videos",
     "2 - Source Material/Books",
-    "2 - Source Material",
-    "1 - Rough Notes"
+    "2 - Source Material"
   ]
 }
