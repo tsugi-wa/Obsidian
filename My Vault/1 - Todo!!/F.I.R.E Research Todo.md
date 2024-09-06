@@ -6,7 +6,7 @@ shared google doc [here](https://docs.google.com/document/d/1NIDgQ5aYhBctnJYynly
 ## on choosing CS/passion/etc
 - [YT: How To Choose Your Specialization As A Software Engineer](https://www.youtube.com/watch?v=Ouf-tpDAkK4)
 - [Reddit: CS as career vs just coding](https://www.reddit.com/r/learnprogramming/comments/1bwwy0q/how_do_i_know_if_ill_like_cs_as_a_career_or_if_i/)
-
+- [YT: Programming Challenges](https://www.youtube.com/watch?v=SS19Q-_saCc)
 ## Areas of Interest:
 1. AI programmer (using AI)
 2. AI operations (day-to-day)

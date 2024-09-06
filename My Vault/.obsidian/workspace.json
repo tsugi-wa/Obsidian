@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Rough Notes/'Random.md",
-                "mode": "preview",
+                "file": "1 - Todo!!/F.I.R.E Research Todo.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Rough Notes/'Random.md",
+                "file": "1 - Todo!!/F.I.R.E Research Todo.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Rough Notes/'Random.md",
+                "file": "1 - Todo!!/F.I.R.E Research Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Rough Notes/'Random.md"
+                "file": "1 - Todo!!/F.I.R.E Research Todo.md"
               }
             }
           }
@@ -144,29 +144,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "51dd57f05adabf0f",
   "lastOpenFiles": [
-    "7  - Archive/Submissions/Combined_Version_for_Hand_and_Force_Sensor.ipynb",
-    "1 - Todo!!/Bionics Lab Research.md",
     "1 - Todo!!/BTTAI Todo.md",
-    "1 - Todo!!/F.I.R.E Research Todo.md",
-    "3 - Literature Notes/Articles/-Communication with Noteboxes An Empirical Account By Niklas Luhmann.md",
-    "3 - Literature Notes/Books/-Charlie Munger BILLIONAIRE.md",
-    "1 - Todo!!/Zettelkasten Todo.md",
-    "3 - Literature Notes/Books/David Kadavy's 'Digital Zettelkasten'.md",
-    "7  - Archive/Dream ITX build.md",
+    "1 - Todo!!/Bionics Lab Research.md",
+    "0 - Rough Notes/Hand Sensor Trimming Algorithm.md",
     "0 - Rough Notes/Grad App Questions.md",
     "0 - Rough Notes/'Random.md",
+    "3 - Literature Notes/Books/David Kadavy's 'Digital Zettelkasten'.md",
+    "3 - Literature Notes/Books/-Indistractible by Nir Eyal.md",
+    "0 - Rough Notes/MusicApp Idea.md",
+    "1 - Todo!!/F.I.R.E Research Todo.md",
+    "1 - Todo!!/Zettelkasten Todo.md",
+    "7  - Archive/Submissions/Combined_Version_for_Hand_and_Force_Sensor.ipynb",
+    "3 - Literature Notes/Articles/-Communication with Noteboxes An Empirical Account By Niklas Luhmann.md",
+    "3 - Literature Notes/Books/-Charlie Munger BILLIONAIRE.md",
+    "7  - Archive/Dream ITX build.md",
     "3 - Literature Notes/Books/-Faliks book.md",
     "3 - Literature Notes/Books/-The Road by Cormac McCarthy.md",
     "3 - Literature Notes/Books/-Mind Management not Time Management.md",
-    "3 - Literature Notes/Books/-Indistractible by Nir Eyal.md",
-    "0 - Rough Notes/MusicApp Idea.md",
     "2 - Source Material/literature/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples (2021).pdf",
-    "0 - Rough Notes/Hand Sensor Trimming Algorithm.md",
     "0 - Rough Notes/Mech Keyboard Research.md",
     "7  - Archive/Submissions/Career-related Application Short Responses.md",
     "7  - Archive/Submissions/Career-related Application Short Responses.md.crdownload",
@@ -177,7 +178,6 @@
     "7  - Archive/Excess Study List Petition Fall 2024.pdf",
     "7  - Archive/Unofficial Transcript til Spring 2024.pdf",
     "7  - Archive/805697622_CHEN.GRACE_U1_20240901094734.pdf",
-    "7  - Archive/Excess Study List Peition Fall 2024.pdf",
     "6 - Templates/Checklist.md",
     "6 - Templates/Untitled.md",
     "6 - Templates/Generic Metadata.md",
