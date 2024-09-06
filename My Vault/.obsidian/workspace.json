@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55a696f04f75707b",
+        "id": "e43217fd48f58767",
         "type": "tabs",
         "children": [
           {
-            "id": "1371cde7726aa526",
+            "id": "51dd57f05adabf0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Books/The Last Wish.md",
+                "file": "1 - Todo!!/BTTAI Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Constructing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,9 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Books/The Last Wish.md",
+                "file": "1 - Todo!!/BTTAI Todo.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Books/The Last Wish.md",
+                "file": "1 - Todo!!/BTTAI Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Books/The Last Wish.md"
+                "file": "1 - Todo!!/BTTAI Todo.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,37 +144,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "smart-random-note:Open Random Note from Search": false
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "633c847996f6bc35",
+  "active": "51dd57f05adabf0f",
   "lastOpenFiles": [
-    "1 - Rough Notes/MusicApp Idea.md",
-    "1 - Rough Notes/Ideas to follow up.md",
-    "2 - Source Material/attachments/Pasted image 20240816094606.png",
-    "2 - Source Material/attachments",
-    "5 - Templates/Main Note.md",
-    "2 - Source Material/Courses/BTTAI Resume Workshop.md",
-    "1 - Rough Notes/Daily bike log.md",
-    "1 - Rough Notes/Submissions Archive",
-    "2 - Source Material/Books/Charlie Munger BILLIONAIRE.md",
-    "2 - Source Material/Books/Faliks book.md",
-    "2 - Source Material/Books/The Last Wish.md",
-    "1 - Rough Notes/Reminders.md",
-    "1 - Rough Notes/Submissions Archive/UCLA Music Partnership Application.md",
-    "3 - Tags/witcher.md",
-    "3 - Tags/pianist life.md",
-    "6 - Main Notes",
-    "5 - Templates",
-    "4 - Indexes",
-    "Welcome.md",
-    "3 - Tags/wisdom.md",
-    "3 - Tags/charlie munger.md",
-    "2 - Source Material/AI.md",
-    "3 - Tags",
-    "2 - Source Material/Courses",
-    "2 - Source Material/Videos",
-    "2 - Source Material/Books",
-    "2 - Source Material"
+    "0 - Rough Notes/'Random.md",
+    "1 - Todo!!/Bionics Lab Research.md",
+    "1 - Todo!!/F.I.R.E Research Todo.md",
+    "1 - Todo!!/BTTAI Todo.md",
+    "3 - Literature Notes/Books/David Kadavy's 'Digital Zettelkasten'.md",
+    "3 - Literature Notes/Books/Charlie Munger BILLIONAIRE.md",
+    "3 - Literature Notes/Books/-Faliks book.md",
+    "3 - Literature Notes/Books/-The Road by Cormac McCarthy.md",
+    "3 - Literature Notes/Books/-Mind Management not Time Management.md",
+    "3 - Literature Notes/Books/-Indistractible by Nir Eyal.md",
+    "1 - Todo!!/Zettelkasten Todo.md",
+    "0 - Rough Notes/MusicApp Idea.md",
+    "2 - Source Material/literature/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples (2021).pdf",
+    "0 - Rough Notes/Hand Sensor Trimming Algorithm.md",
+    "0 - Rough Notes/Grad App Questions.md",
+    "0 - Rough Notes/Dream ITX build.md",
+    "0 - Rough Notes/Mech Keyboard Research.md",
+    "7  - Archive/Submissions/Career-related Application Short Responses.md",
+    "7  - Archive/Submissions/Career-related Application Short Responses.md.crdownload",
+    "4 - Permanent Notes/Grace Chen Resume.pdf",
+    "7  - Archive/Grace Chen Resume.pdf",
+    "7  - Archive/Grace Chen Resum.pdf",
+    "7  - Archive/Grace Chen Resume.docx (9).pdf",
+    "7  - Archive/Excess Study List Petition Fall 2024.pdf",
+    "7  - Archive/Unofficial Transcript til Spring 2024.pdf",
+    "7  - Archive/805697622_CHEN.GRACE_U1_20240901094734.pdf",
+    "7  - Archive/Excess Study List Peition Fall 2024.pdf",
+    "6 - Templates/Checklist.md",
+    "6 - Templates/Untitled.md",
+    "6 - Templates/Generic Metadata.md",
+    "0 - Rough Notes/Random Notes.md",
+    "1 - Rough Notes/Untitled.md",
+    "5 - Indexes/AI.md",
+    "5 - Indexes/applied AI.md",
+    "5 - Indexes/ML.md",
+    "5 - Tags/AI/NLP.md",
+    "2 - Source Material/images/0be12c4147c8ae32f1c3174f4639871c_MD5.png",
+    "2 - Source Material/images/diagrams.png",
+    "f17a5efbd598fa0e5429dee1116df153_MD5.webp",
+    "394e9273660b3829f23eeeb3d814e31a_MD5.svg",
+    "4f1d265f4eb0357939f15ffa7052acda_MD5.svg",
+    "d426781df7205049515d949d9c4cd686_MD5.svg",
+    "448cb7e21e8da3c62f263efb0d9a1ec7_MD5.svg",
+    "5847c99344279c99e6674a6865f9aebd_MD5.svg",
+    "cc5f9b08dc89a577127d0a49644901cc_MD5.svg",
+    "8309691904af58f579572a14e975900c_MD5.svg"
   ]
 }
