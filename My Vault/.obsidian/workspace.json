@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Todo!!/BTTAI Todo.md",
-                "mode": "source",
+                "file": "0 - Rough Notes/'Random.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Todo!!/BTTAI Todo.md",
+                "file": "0 - Rough Notes/'Random.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Todo!!/BTTAI Todo.md",
+                "file": "0 - Rough Notes/'Random.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Todo!!/BTTAI Todo.md"
+                "file": "0 - Rough Notes/'Random.md"
               }
             }
           }
@@ -149,22 +149,24 @@
   },
   "active": "51dd57f05adabf0f",
   "lastOpenFiles": [
-    "0 - Rough Notes/'Random.md",
+    "7  - Archive/Submissions/Combined_Version_for_Hand_and_Force_Sensor.ipynb",
     "1 - Todo!!/Bionics Lab Research.md",
-    "1 - Todo!!/F.I.R.E Research Todo.md",
     "1 - Todo!!/BTTAI Todo.md",
+    "1 - Todo!!/F.I.R.E Research Todo.md",
+    "3 - Literature Notes/Articles/-Communication with Noteboxes An Empirical Account By Niklas Luhmann.md",
+    "3 - Literature Notes/Books/-Charlie Munger BILLIONAIRE.md",
+    "1 - Todo!!/Zettelkasten Todo.md",
     "3 - Literature Notes/Books/David Kadavy's 'Digital Zettelkasten'.md",
-    "3 - Literature Notes/Books/Charlie Munger BILLIONAIRE.md",
+    "7  - Archive/Dream ITX build.md",
+    "0 - Rough Notes/Grad App Questions.md",
+    "0 - Rough Notes/'Random.md",
     "3 - Literature Notes/Books/-Faliks book.md",
     "3 - Literature Notes/Books/-The Road by Cormac McCarthy.md",
     "3 - Literature Notes/Books/-Mind Management not Time Management.md",
     "3 - Literature Notes/Books/-Indistractible by Nir Eyal.md",
-    "1 - Todo!!/Zettelkasten Todo.md",
     "0 - Rough Notes/MusicApp Idea.md",
     "2 - Source Material/literature/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples (2021).pdf",
     "0 - Rough Notes/Hand Sensor Trimming Algorithm.md",
-    "0 - Rough Notes/Grad App Questions.md",
-    "0 - Rough Notes/Dream ITX build.md",
     "0 - Rough Notes/Mech Keyboard Research.md",
     "7  - Archive/Submissions/Career-related Application Short Responses.md",
     "7  - Archive/Submissions/Career-related Application Short Responses.md.crdownload",
@@ -183,8 +185,6 @@
     "1 - Rough Notes/Untitled.md",
     "5 - Indexes/AI.md",
     "5 - Indexes/applied AI.md",
-    "5 - Indexes/ML.md",
-    "5 - Tags/AI/NLP.md",
     "2 - Source Material/images/0be12c4147c8ae32f1c3174f4639871c_MD5.png",
     "2 - Source Material/images/diagrams.png",
     "f17a5efbd598fa0e5429dee1116df153_MD5.webp",
