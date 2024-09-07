@@ -10,16 +10,33 @@
           {
             "id": "51dd57f05adabf0f",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b5b9c52d6bc3fe49",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1 - Todo!!/Bionics Lab Research.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,9 +165,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51dd57f05adabf0f",
+  "active": "b5b9c52d6bc3fe49",
   "lastOpenFiles": [
+    "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
+    "1 - Todo!!/Bionics Lab Research.md",
+    "57d1bb5eb89fe7d2ebdcf8e2005f3753_MD5.jpeg",
+    "Pasted image 20240907111822.png",
     "1 - Todo!!/F.I.R.E Research Todo.md",
+    "a08e356b5c631b93009beb05d513ce7f_MD5.jpeg",
+    "Pasted image 20240907111520.png",
     "5 - Indexes/ML.md",
     "PyTorch.md",
     "4 - Permanent Notes/Grace Chen Resume.pdf",
@@ -163,7 +186,6 @@
     "4 - Permanent Notes/FIRE dream pinterests.md",
     "1 - Todo!!/BTTAI Todo.md",
     "7  - Archive/Dream ITX build.md",
-    "1 - Todo!!/Bionics Lab Research.md",
     "0 - Rough Notes/'Random.md",
     "0 - Rough Notes/Hand Sensor Trimming Algorithm.md",
     "0 - Rough Notes/Grad App Questions.md",
@@ -177,7 +199,6 @@
     "3 - Literature Notes/Books/-Mind Management not Time Management.md",
     "2 - Source Material/literature/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples (2021).pdf",
     "0 - Rough Notes/Mech Keyboard Research.md",
-    "7  - Archive/Submissions/Career-related Application Short Responses.md",
     "7  - Archive/Submissions/Career-related Application Short Responses.md.crdownload",
     "7  - Archive/Grace Chen Resume.pdf",
     "7  - Archive/Grace Chen Resum.pdf",
@@ -185,16 +206,11 @@
     "7  - Archive/Excess Study List Petition Fall 2024.pdf",
     "7  - Archive/Unofficial Transcript til Spring 2024.pdf",
     "7  - Archive/805697622_CHEN.GRACE_U1_20240901094734.pdf",
-    "6 - Templates/Checklist.md",
     "2 - Source Material/images/0be12c4147c8ae32f1c3174f4639871c_MD5.png",
     "2 - Source Material/images/diagrams.png",
     "f17a5efbd598fa0e5429dee1116df153_MD5.webp",
     "394e9273660b3829f23eeeb3d814e31a_MD5.svg",
     "4f1d265f4eb0357939f15ffa7052acda_MD5.svg",
-    "d426781df7205049515d949d9c4cd686_MD5.svg",
-    "448cb7e21e8da3c62f263efb0d9a1ec7_MD5.svg",
-    "5847c99344279c99e6674a6865f9aebd_MD5.svg",
-    "cc5f9b08dc89a577127d0a49644901cc_MD5.svg",
-    "8309691904af58f579572a14e975900c_MD5.svg"
+    "d426781df7205049515d949d9c4cd686_MD5.svg"
   ]
 }

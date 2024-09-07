@@ -2,6 +2,8 @@
 Urgency: "!!"
 Date Due: 9/7/2024 5 AM
 ---
+
+
 shared google doc [here](https://docs.google.com/document/d/1NIDgQ5aYhBctnJYynlyWzxmlvisKuJ4TbBUgoAAOfQ4/edit)
 ## on choosing CS/passion/etc
 - [YT: How To Choose Your Specialization As A Software Engineer](https://www.youtube.com/watch?v=Ouf-tpDAkK4)
