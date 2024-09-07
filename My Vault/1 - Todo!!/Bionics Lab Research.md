@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1CBr2VrJ_E4DDDXAQUsh_ADIHlsySbTGx/view?usp=drive
 - [ ] call caleb with returnsumdata true
 - [x] rename "grace" "caleb" in 1x3 graphs
 - [ ] fix 6x3 graph ignore index01x, index02x, index02y and plot thumb
-- [ ] final trim version in 1x3 plot
+- [x] final trim version in 1x3 plot
 - [ ] adapt to new seungmin folder system, ignore w/out hand sensor
 - [ ] output csv to new folders
 - [x] calculate avg and sum for normalization
