@@ -35,8 +35,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Todo!!/Bionics Lab Research.md",
+                "file": "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Todo!!/Bionics Lab Research.md",
+                "file": "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Todo!!/Bionics Lab Research.md"
+                "file": "3 - Literature Notes/Courses/BTTAI Resume Workshop.md"
               }
             }
           }
@@ -165,10 +164,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5b9c52d6bc3fe49",
+  "active": "51dd57f05adabf0f",
   "lastOpenFiles": [
-    "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
     "1 - Todo!!/Bionics Lab Research.md",
+    "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
     "57d1bb5eb89fe7d2ebdcf8e2005f3753_MD5.jpeg",
     "Pasted image 20240907111822.png",
     "1 - Todo!!/F.I.R.E Research Todo.md",
