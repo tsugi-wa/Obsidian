@@ -34,6 +34,16 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "32695a6d506982a1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4 - Permanent Notes/Grace Chen Resume.pdf"
+              }
+            }
           }
         ]
       }
@@ -166,8 +176,9 @@
   },
   "active": "51dd57f05adabf0f",
   "lastOpenFiles": [
-    "1 - Todo!!/Bionics Lab Research.md",
+    "4 - Permanent Notes/Grace Chen Resume.pdf",
     "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
+    "1 - Todo!!/Bionics Lab Research.md",
     "57d1bb5eb89fe7d2ebdcf8e2005f3753_MD5.jpeg",
     "Pasted image 20240907111822.png",
     "1 - Todo!!/F.I.R.E Research Todo.md",
@@ -175,7 +186,6 @@
     "Pasted image 20240907111520.png",
     "5 - Indexes/ML.md",
     "PyTorch.md",
-    "4 - Permanent Notes/Grace Chen Resume.pdf",
     "3 - Literature Notes/Books/David Kadavy's 'Digital Zettelkasten'.md",
     "3 - Literature Notes/Courses/BTTAI ML/3. Train Common ML Models.md",
     "5 - Indexes/applied AI.md",
