@@ -36,7 +36,7 @@ def mean_smooth(y, window_size=15):
 	compute mean_smooth with same len as before
 
 def smooth_data(df, col_name, threshold):
-	NOT in-place, removal of jumps
+	In-place, removal of sensor jumps
 
 def compute_ratio(df, base, joint1, joint2, output_col_name, smooth_output=True):
 	first smoothes all 3 given cols then compute dist and ratio
@@ -50,6 +50,12 @@ def no_scroll():
 ```
 # Grapher
 ```
-def graph_files(files, files_untrimmed, testno, hand, output_name, deg_min_max, ratio_min_max, dist_min_max,
-	outputs 9x4 graph 
+def graph_files(files, files_untrimmed, testno, hand, output_name,       
+  deg_min_max, ratio_min_max, dist_min_max,
+	9x4 graph
+
+def graph_all_scores(score2_files, score1_files, score0_files, 
+  score2_files_untrimmed, score1_files_untrimmed, score0_files_untrimmed,
+  hand, output_name, deg_min_max, save_path=None, hide_plot=False):
+	
 ```
