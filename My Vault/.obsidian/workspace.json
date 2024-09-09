@@ -34,8 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "6aa2f6cfbf3f4a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Todo!!/Bionics Lab Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
+                "file": "1 - Todo!!/Bionics Lab Research.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
+                "file": "1 - Todo!!/Bionics Lab Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Literature Notes/Courses/BTTAI Resume Workshop.md"
+                "file": "1 - Todo!!/Bionics Lab Research.md"
               }
             }
           }
@@ -164,15 +177,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51dd57f05adabf0f",
+  "active": "6aa2f6cfbf3f4a67",
   "lastOpenFiles": [
+    "1 - Todo!!/BTTAI Todo.md",
+    "1 - Todo!!/F.I.R.E Research Todo.md",
+    "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
     "1 - Todo!!/Bionics Lab Research.md",
     "4 - Permanent Notes/Grace Chen Resume.pdf",
     "7  - Archive/Unofficial Transcript til Spring 2024.pdf",
-    "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
     "57d1bb5eb89fe7d2ebdcf8e2005f3753_MD5.jpeg",
     "Pasted image 20240907111822.png",
-    "1 - Todo!!/F.I.R.E Research Todo.md",
     "a08e356b5c631b93009beb05d513ce7f_MD5.jpeg",
     "Pasted image 20240907111520.png",
     "5 - Indexes/ML.md",
@@ -184,7 +198,6 @@
     "3 - Literature Notes/Courses/BTTAI ML/1. Machine Learning in a Nutshell.md",
     "3 - Literature Notes/Articles/-Communication with Noteboxes An Empirical Account By Niklas Luhmann.md",
     "4 - Permanent Notes/FIRE dream pinterests.md",
-    "1 - Todo!!/BTTAI Todo.md",
     "7  - Archive/Dream ITX build.md",
     "0 - Rough Notes/'Random.md",
     "0 - Rough Notes/Hand Sensor Trimming Algorithm.md",

@@ -20,12 +20,14 @@ https://drive.google.com/file/d/1CBr2VrJ_E4DDDXAQUsh_ADIHlsySbTGx/view?usp=drive
 ```
 def get_testno(filename):
 	return 0 for test 1, etc.
+	*testnames, testnames_alt*
 
 def interpolate_to_0_2(df):
 	given df, return interpolated df
 
 def get_hand(filename):
 	return hand[0] if left in filename, etc.
+	*hands*
 
 def generate_colors(num_colors, plot_colors=False):
 	generate x many numbers, choose to preview colors
