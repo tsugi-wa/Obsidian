@@ -42,4 +42,4 @@ Estimated Wattage: 334W
 - gmk87($45) + 85 switches ($33 piano/fairy, $26 milk yellow) = $100-$108
 - aula f75($48) + 80 switches ($30 piano/fairy, $23 milk yellow) = $101-109
 - keychron v1 ($65) + 80 switches ($30 piano/fairy, $23 milk yellow) = $118-126
-- japan green keycaps (+$30)
+- japan green keycaps (+$30)                         
