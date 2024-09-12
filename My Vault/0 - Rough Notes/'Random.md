@@ -1,3 +1,23 @@
+# Finance for Fall 2024
+
+**Music Partnership: $100 a week**
+(3+2) x 10 hours = $20/hour
+(3+10x2min) x 10 hours = $30/hour (read on bus)
+
+**UCHA double:** 
+rent + commute + choreshift + bathroom
+$2181 + 38.5 hrs + $616 + $60
+$2181 + (0.5 hr daily x 7 x 11 ) + $56\*11 + 20\*3
+
+**632 Hilgard double:**
+rent + commute
+$3650 + 7.7 hrs
+$3650 + (0.1 hr daily x 7 x 11)
+
+**646 Hilgard single**
+rent + commute
+$5875 + 10 hrs
+$5875 + (0.13 hr daily x 7 x 11)
 # Background Vibes:
 - [Witcher calm](https://open.spotify.com/playlist/316WbuvJe9I2pmfUFTG5ll?si=4c4ede9f34bc4c9b)
 - Japanese livestreamers:
