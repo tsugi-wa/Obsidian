@@ -1,4 +1,4 @@
-# [PCPartPicker Part List](https://pcpartpicker.com/list/9HWVJy)
+ # [PCPartPicker Part List](https://pcpartpicker.com/list/9HWVJy)
 Estimated Wattage: 334W
 
 | Type        | Item                                                                                                                                                                                     | Price                                                                                                       | Price w/ Tax | Date Acquired |
