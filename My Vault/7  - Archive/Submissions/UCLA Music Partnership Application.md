@@ -1,4 +1,4 @@
-$1000 a quarter, (3+2) x 10 hours = $20/hour
+$1000 a quarter, (3+2) x 10 hours = $20/hour ($100 a day)
 
 UCLA Music Partnership Program: Instructor Application Form
 
