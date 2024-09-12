@@ -1,3 +1,5 @@
+$1000 a quarter, (3+2) x 10 hours = $20/hour
+
 UCLA Music Partnership Program: Instructor Application Form
 
 Thanks for your interest in the UCLA Music Partnership Program. Please complete this application, and we'll be in touch with more information soon. Please also feel free to contact afox@schoolofmusic.ucla.edu if you have any questions, thanks!
