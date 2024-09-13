@@ -14,6 +14,18 @@ rent + commute
 $3650 + 7.7 hrs
 $3650 + (0.1 hr daily x 7 x 11)
 
+**Conclusion sentence:** 
+money-to-money difference: $800 more in new
+800 can buy: 
+- 31 hours commute saved a quarter
+- house condition?
+- people 
+- faster maintanence from trustworthy handymen
+- enforced rules 
+- drugs weed 
+- all women 
+
+
 **646 Hilgard single**
 rent + commute
 $5875 + 10 hrs
