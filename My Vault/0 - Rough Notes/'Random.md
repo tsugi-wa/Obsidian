@@ -1,3 +1,8 @@
+- why hvae power to hold my records? affiliated with UCLA?
+- can I move in before 20th
+- 
+
+
 # Finance for Fall 2024
 
 **Music Partnership: $100 a week**
@@ -24,6 +29,7 @@ money-to-money difference: $800 more in new
 - enforced rules 
 - drugs weed 
 - all women 
+- bed bugs
 
 
 **646 Hilgard single**
