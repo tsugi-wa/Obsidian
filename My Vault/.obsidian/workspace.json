@@ -39,12 +39,8 @@
             "id": "6aa2f6cfbf3f4a67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7  - Archive/Dream ITX build.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7  - Archive/Dream ITX build.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7  - Archive/Dream ITX build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "7  - Archive/Dream ITX build.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -179,13 +171,13 @@
   },
   "active": "6aa2f6cfbf3f4a67",
   "lastOpenFiles": [
+    "1 - Todo!!/F.I.R.E Research Todo.md",
+    "7  - Archive/Dream ITX build.md",
     "0 - Rough Notes/'Random.md",
     "0 - Rough Notes/MusicApp Idea.md",
     "0 - Rough Notes/Grad App Questions.md",
     "0 - Rough Notes/Hand Sensor Trimming Algorithm.md",
     "7  - Archive/Submissions/UCLA Music Partnership Application.md",
-    "7  - Archive/Dream ITX build.md",
-    "1 - Todo!!/F.I.R.E Research Todo.md",
     "1 - Todo!!/Bionics Lab Research.md",
     "1 - Todo!!/BTTAI Todo.md",
     "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
