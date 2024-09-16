@@ -11,7 +11,7 @@ Date Due: 9/6/2024 4:35 AM
 - [ ] adapt to new seungmin folder system, ignore w/out hand sensor
 - [ ] output sum of degrees and normalized degrees to csv
 - [x] calculate avg and sum for normalization
-- [ ] 201 to 200 
+- [x] 201 to 200 
 - [ ] range of motion
 - [ ] save sum of data into csv
 
