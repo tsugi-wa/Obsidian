@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Todo!!/Bionics Lab Research.md",
+                "file": "1 - Todo!!/F.I.R.E Research Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Todo!!/Bionics Lab Research.md",
+                "file": "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Todo!!/Bionics Lab Research.md",
+                "file": "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Todo!!/Bionics Lab Research.md"
+                "file": "3 - Literature Notes/Courses/BTTAI Resume Workshop.md"
               }
             }
           }
@@ -177,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6aa2f6cfbf3f4a67",
+  "active": "8f66db546c226a11",
   "lastOpenFiles": [
+    "1 - Todo!!/Bionics Lab Research.md",
     "1 - Todo!!/F.I.R.E Research Todo.md",
     "7  - Archive/Dream ITX build.md",
     "0 - Rough Notes/'Random.md",
@@ -186,7 +188,6 @@
     "0 - Rough Notes/Grad App Questions.md",
     "0 - Rough Notes/Hand Sensor Trimming Algorithm.md",
     "7  - Archive/Submissions/UCLA Music Partnership Application.md",
-    "1 - Todo!!/Bionics Lab Research.md",
     "1 - Todo!!/BTTAI Todo.md",
     "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
     "4 - Permanent Notes/Grace Chen Resume.pdf",
