@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Todo!!/F.I.R.E Research Todo.md",
+                "file": "0 - Rough Notes/CS 134.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
+                "file": "0 - Rough Notes/CS 134.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
+                "file": "0 - Rough Notes/CS 134.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Literature Notes/Courses/BTTAI Resume Workshop.md"
+                "file": "0 - Rough Notes/CS 134.md"
               }
             }
           }
@@ -178,8 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f66db546c226a11",
+  "active": "6aa2f6cfbf3f4a67",
   "lastOpenFiles": [
+    "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
+    "0 - Rough Notes/CS 134.md",
     "1 - Todo!!/Bionics Lab Research.md",
     "1 - Todo!!/F.I.R.E Research Todo.md",
     "7  - Archive/Dream ITX build.md",
@@ -189,7 +190,6 @@
     "0 - Rough Notes/Hand Sensor Trimming Algorithm.md",
     "7  - Archive/Submissions/UCLA Music Partnership Application.md",
     "1 - Todo!!/BTTAI Todo.md",
-    "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
     "4 - Permanent Notes/Grace Chen Resume.pdf",
     "7  - Archive/Unofficial Transcript til Spring 2024.pdf",
     "57d1bb5eb89fe7d2ebdcf8e2005f3753_MD5.jpeg",
@@ -213,7 +213,6 @@
     "3 - Literature Notes/Books/-The Road by Cormac McCarthy.md",
     "3 - Literature Notes/Books/-Mind Management not Time Management.md",
     "2 - Source Material/literature/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples (2021).pdf",
-    "0 - Rough Notes/Mech Keyboard Research.md",
     "7  - Archive/Submissions/Career-related Application Short Responses.md.crdownload",
     "7  - Archive/Grace Chen Resume.pdf",
     "7  - Archive/Grace Chen Resum.pdf",
