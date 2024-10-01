@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Rough Notes/CS 134.md",
+                "file": "0 - Rough Notes/CS 130.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Rough Notes/CS 134.md",
+                "file": "0 - Rough Notes/CS 130.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Rough Notes/CS 134.md",
+                "file": "0 - Rough Notes/CS 130.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Rough Notes/CS 134.md"
+                "file": "0 - Rough Notes/CS 130.md"
               }
             }
           }
@@ -179,8 +179,9 @@
   },
   "active": "6aa2f6cfbf3f4a67",
   "lastOpenFiles": [
-    "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
     "0 - Rough Notes/CS 134.md",
+    "0 - Rough Notes/CS 130.md",
+    "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
     "1 - Todo!!/Bionics Lab Research.md",
     "1 - Todo!!/F.I.R.E Research Todo.md",
     "7  - Archive/Dream ITX build.md",
@@ -211,7 +212,6 @@
     "3 - Literature Notes/Books/-Charlie Munger BILLIONAIRE.md",
     "3 - Literature Notes/Books/-Faliks book.md",
     "3 - Literature Notes/Books/-The Road by Cormac McCarthy.md",
-    "3 - Literature Notes/Books/-Mind Management not Time Management.md",
     "2 - Source Material/literature/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples (2021).pdf",
     "7  - Archive/Submissions/Career-related Application Short Responses.md.crdownload",
     "7  - Archive/Grace Chen Resume.pdf",
