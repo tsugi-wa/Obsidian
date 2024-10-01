@@ -1,3 +1,11 @@
+# recipes
+**tomato egg noodle:**
+**red bean soup**
+**risotto mushroom**
+**japan box stew**
+****
+
+
 - why hvae power to hold my records? affiliated with UCLA?
 - can I move in before 20th
 - any written paper documentation for more rules and checkout okay etc (for mutual protection)
