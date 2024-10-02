@@ -1,9 +1,16 @@
-# Course format
+## Lecture/Topic Index
+
+| Week | Lecture #                                                           | Summary                 |
+| ---- | ------------------------------------------------------------------- | ----------------------- |
+| 1.1  | [[My Vault/3 - Literature Notes/Courses/CS 130/0verview\|0verview]] | short syllabus overview |
+| 1.2  |                                                                     |                         |
+
+## Course format
 sys vs software engineering - software is sub-sys engineering
 all engineers - iterative problem solvers
 lectures theory lvl, use Java just to explain
 
-# Syllabus
+## Syllabus
 - 3% participation (in-person participation quizzes)
 - 12% homework
 - 35% 4-5 ppl team project
@@ -15,8 +22,3 @@ lectures theory lvl, use Java just to explain
 - 25% midterm
 - 25% final
 
-
-| Week | Lecture #                                                           | Summary                 |     |
-| ---- | ------------------------------------------------------------------- | ----------------------- | --- |
-| 1.1  | [[My Vault/3 - Literature Notes/Courses/CS 130/0verview\|0verview]] | short syllabus overview |     |
-| 1.2  |                                                                     |                         |     |

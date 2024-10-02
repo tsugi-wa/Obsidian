@@ -1,12 +1,12 @@
-# Lecture/Topic Index
+## Lecture/Topic Index
 
-| Week | Lecture #                 | Summary                                                 |     |
-| ---- | ------------------------- | ------------------------------------------------------- | --- |
-| 1.1  | [[Lecture 1 (9-30-2024)]] | Distributed System definition, examples, types, anatomy |     |
-| 1.2  |                           |                                                         |     |
-|      |                           |                                                         |     |
+| Week | Lecture #                                                                                     | Summary                                                 |
+| ---- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 1.1  | [[My Vault/3 - Literature Notes/Courses/CS 134/Lecture 1 (9-30-2024)\|Lecture 1 (9-30-2024)]] | Distributed System definition, examples, types, anatomy |
+| 1.2  |                                                                                               |                                                         |
+|      |                                                                                               |                                                         |
 
-# Office Hours
+## Office Hours
 
 |               | M   | T       | W      | R                                                | F           | Email                | Office        |
 | ------------- | --- | ------- | ------ | ------------------------------------------------ | ----------- | -------------------- | ------------- |
@@ -14,7 +14,7 @@
 | Jack          |     |         |        |                                                  | 10:15-12:15 | yiyaoyu@cs.ucla.edu  | Boelter 3278  |
 | Arjun         |     | 12:30-2 |        |                                                  |             | arjuna5@g.ucla.edu   | Boelter 3286  |
 
-# Grading
+## Grading
 55% project
 1. scratch MapReduce (low-lvl) in Go (intro)
 2. primary/backup key-value service (not lose key-vals in nodes)
@@ -22,13 +22,13 @@
 4. sharded key-value service (full distributed key-value service)
 20% **open-note** midterm (Mon Nov 4 in class)
 25% **open-note** final exam (Wed Dec 11, 8-11am)
-# Textbooks
+## Textbooks
 - course-boring-verbose (AFTER lecture): [Distributed Systems v4.02](https://www.distributed-systems.net/index.php/books/ds4/ds4-ebook/)
 - high-lvl understanding (BEFORE lecture): [[Roberto Vitillo - Understanding Distributed Systems - 2nd Edition (2022).pdf | Understanding Distributed Systems]]
 - future research papers (BEFORE lecture)
 	popular, timeless fundamentals not newest cutting edge tech
 - highly recommend for app-lvl data job: [Designing Data-Intensive Applications](https://learning.oreilly.com/videos/designing-data-intensive-applications/9781663728289/)
-# Background Knowledge
+## Background Knowledge
 - learn Go in this class, so python knowledge helps
 - application lvl - http
 - transport layer - TCP
