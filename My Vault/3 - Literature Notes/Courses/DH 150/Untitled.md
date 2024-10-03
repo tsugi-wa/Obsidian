@@ -8,4 +8,5 @@ becomes internalized (i.e. black ppl not comfortable performing without blackfac
 spatial justice: outcome + proces
 - political and socioeconomic locating/organizing of space
 - if country trying to increase injustice, leads to collapse/world wars??? (edward w. soja) what bout China, north korea?
+- gentrification: why bad? driving out ppl, pushing costs of housing, 
 - 
