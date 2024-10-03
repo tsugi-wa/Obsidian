@@ -3,4 +3,6 @@ tied with states/society/status so more recent ?
 a right or protection for everyone from some state
 - otherwise, technically "oppressed"
 **Oppression:**
-becomes internalized (i.e. black ppl not comfortable performing without blackface)
+becomes internalized (i.e. black ppl not comfortable performing without blackface
+
+spatial justice: outcome + proces
