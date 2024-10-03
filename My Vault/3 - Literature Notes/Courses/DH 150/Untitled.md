@@ -9,4 +9,5 @@ spatial justice: outcome + proces
 - political and socioeconomic locating/organizing of space
 - if country trying to increase injustice, leads to collapse/world wars??? (edward w. soja) what bout China, north korea?
 - gentrification: why bad? driving out ppl, pushing costs of housing, 
+- space socially produced/changed i.e. university space vs mcdonalds
 - 
