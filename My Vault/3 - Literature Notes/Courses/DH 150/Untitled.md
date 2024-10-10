@@ -12,3 +12,13 @@ spatial justice: outcome + proces
 - space socially produced/changed i.e. university space vs mcdonalds
 - [[e87b61624844d5391f5bb9c5774c0208_MD5.zip|Open: ne_10m_urban_areas.zip]]
 ![[e87b61624844d5391f5bb9c5774c0208_MD5.zip]]
+
+
+ex: list of places is gazetteer
+sort id
+publication id
+title
+buried date
+contents
+notes
+location_url
