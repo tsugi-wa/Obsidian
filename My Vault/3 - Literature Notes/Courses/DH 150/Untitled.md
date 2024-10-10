@@ -22,3 +22,7 @@ buried date
 contents
 notes
 location_url
+
+location id: https://www.geonames.org/5368361/los-angeles.html 
+the 5368361
+https://www.getty.edu/research/tools/vocabularies/tgn
