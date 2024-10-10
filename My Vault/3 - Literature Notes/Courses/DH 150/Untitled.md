@@ -30,5 +30,10 @@ https://whgazetteer.org/search/
 https://www.openstreetmap.org/relation/207359
 [[b3902a0e5e40f96955a3e987592577c8_MD5.jpeg|Open: Pasted image 20241010154938.png]]
 https://pleiades.stoa.org/
-linked open data LOD: 
+linked open data LOD: not just simple maps, ecology, images, etc.
+how though? 
+- addresses in data - either geocode or reconciliation
+**reconciliation: **
+- annotate images etc
+- recogito.pelagios.org
 ![[b3902a0e5e40f96955a3e987592577c8_MD5.jpeg]]
