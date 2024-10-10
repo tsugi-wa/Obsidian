@@ -26,3 +26,9 @@ location_url
 location id: https://www.geonames.org/5368361/los-angeles.html 
 the 5368361
 https://www.getty.edu/research/tools/vocabularies/tgn
+https://whgazetteer.org/search/
+https://www.openstreetmap.org/relation/207359
+[[b3902a0e5e40f96955a3e987592577c8_MD5.jpeg|Open: Pasted image 20241010154938.png]]
+https://pleiades.stoa.org/
+linked open data LOD: 
+![[b3902a0e5e40f96955a3e987592577c8_MD5.jpeg]]
