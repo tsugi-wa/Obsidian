@@ -41,6 +41,8 @@ how though?
 ## Lecture 3
 LiDAR apps like TOR, airplane measure spaces
 vs Photogrammetry - aerial lightup
+https://docs.google.com/presentation/d/1WqrVh-MVQOjhwPkFLuTwTtKKTxGiRZLV4V7oDPmoZxo/edit#slide=id.g222e7f52f09_3_0
+
 
 [[dc559df36a4fc63cb61c61bd7b7731fd_MD5.jpeg|Open: Pasted image 20241017155152.png]]
 ![[dc559df36a4fc63cb61c61bd7b7731fd_MD5.jpeg]]
@@ -73,3 +75,5 @@ specify desired buffer size and unit type
 i.e. 100 mile buffer: each point is fixed at 100 mile radius:
 [[42b381b4e1b6b18c3ba4a36f9afff5bd_MD5.jpeg|Open: Pasted image 20241017162522.png]]
 ![[42b381b4e1b6b18c3ba4a36f9afff5bd_MD5.jpeg]]
+
+parmeters join -> buff - > intersect
