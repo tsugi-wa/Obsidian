@@ -57,3 +57,4 @@ vs Photogrammetry - aerial lightup
 ![[3e5c4ad2e7365ee5fbdfca6c42ec08ab_MD5.jpeg]]
 output: ^
 
+Join -> + -> join layer, field, target field (id to id) -> joined field (check it ) -> check all fields you want to keep -> export (save to disk not RAM)
