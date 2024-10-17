@@ -61,3 +61,15 @@ Join -> + -> join layer, field, target field (id to id) -> joined field (check i
 
 [[feb47ff39856e79d3ccf61caed802dd8_MD5.jpeg|Open: Pasted image 20241017161935.png]]
 ![[feb47ff39856e79d3ccf61caed802dd8_MD5.jpeg]]
+[[7d76818370de96e78af3015d7e5b3ba1_MD5.jpeg|Open: Pasted image 20241017162056.png]]
+![[7d76818370de96e78af3015d7e5b3ba1_MD5.jpeg]]
+4326 -> 3857 (google projection)
+
+[[fcad3af836e36411e241d672bfc4b481_MD5.jpeg|Open: Pasted image 20241017162409.png]]
+![[fcad3af836e36411e241d672bfc4b481_MD5.jpeg]]
+[[185359c8aa954f796fe7ca01f4c61534_MD5.jpeg|Open: Pasted image 20241017162423.png]]
+![[185359c8aa954f796fe7ca01f4c61534_MD5.jpeg]]
+specify desired buffer size and unit type
+i.e. 100 mile buffer: each point is fixed at 100 mile radius:
+[[42b381b4e1b6b18c3ba4a36f9afff5bd_MD5.jpeg|Open: Pasted image 20241017162522.png]]
+![[42b381b4e1b6b18c3ba4a36f9afff5bd_MD5.jpeg]]
