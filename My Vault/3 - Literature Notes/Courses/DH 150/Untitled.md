@@ -45,5 +45,15 @@ vs Photogrammetry - aerial lightup
 [[dc559df36a4fc63cb61c61bd7b7731fd_MD5.jpeg|Open: Pasted image 20241017155152.png]]
 ![[dc559df36a4fc63cb61c61bd7b7731fd_MD5.jpeg]]
 
-[[502cc6a2e2dfbaec51bf29740eb18871_MD5.jpeg|Open: Pasted image 20241017155327.png]]
-![[502cc6a2e2dfbaec51bf29740eb18871_MD5.jpeg]]
+[[c30c72d014a1ab14644c8c2efc085f8f_MD5.jpeg|Open: Pasted image 20241017155506.png]]
+![[c30c72d014a1ab14644c8c2efc085f8f_MD5.jpeg]]
+
+[[518866deed416c59ce4986af0aa7681d_MD5.jpeg|Open: Pasted image 20241017155605.png]]
+![[518866deed416c59ce4986af0aa7681d_MD5.jpeg]]
+
+[[4571b3b07b47f2fd63b2b2902638bb49_MD5.jpeg|Open: Pasted image 20241017155625.png]]
+![[4571b3b07b47f2fd63b2b2902638bb49_MD5.jpeg]]choose ESRIShapefile instead of GJSON
+[[3e5c4ad2e7365ee5fbdfca6c42ec08ab_MD5.jpeg|Open: Pasted image 20241017155800.png]]
+![[3e5c4ad2e7365ee5fbdfca6c42ec08ab_MD5.jpeg]]
+output: ^
+
