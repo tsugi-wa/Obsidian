@@ -37,3 +37,7 @@ how though?
 - annotate images etc
 - recogito.pelagios.org
 ![[b3902a0e5e40f96955a3e987592577c8_MD5.jpeg]]
+
+## Lecture 3
+LiDAR apps like TOR, airplane measure spaces
+vs Photogrammetry - aerial lightup
