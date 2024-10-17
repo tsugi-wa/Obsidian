@@ -41,3 +41,9 @@ how though?
 ## Lecture 3
 LiDAR apps like TOR, airplane measure spaces
 vs Photogrammetry - aerial lightup
+
+[[dc559df36a4fc63cb61c61bd7b7731fd_MD5.jpeg|Open: Pasted image 20241017155152.png]]
+![[dc559df36a4fc63cb61c61bd7b7731fd_MD5.jpeg]]
+
+[[502cc6a2e2dfbaec51bf29740eb18871_MD5.jpeg|Open: Pasted image 20241017155327.png]]
+![[502cc6a2e2dfbaec51bf29740eb18871_MD5.jpeg]]
