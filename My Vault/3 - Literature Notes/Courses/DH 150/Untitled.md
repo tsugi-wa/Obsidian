@@ -88,6 +88,11 @@ to filter CAlifonria only
 ![[073412ce8dc243e26caf5471431e937d_MD5.jpeg]][[f75cfb592cafbe49636adeb5ade759a6_MD5.jpeg|Open: Pasted image 20241017163940.png]]
 ![[f75cfb592cafbe49636adeb5ade759a6_MD5.jpeg]][[13882d874ef19a3a9c16425113ee3edc_MD5.jpeg|Open: Pasted image 20241017163956.png]]
 ![[13882d874ef19a3a9c16425113ee3edc_MD5.jpeg]]
-select state provinces shp, click california
+click edit pencil in california layer, select state provinces shp, click california, ctrl+C, select cali again, Ctrl+V, then click floppy disk to save layer. 
+
 [[fdb7a5c78207bc0d41c74d0bd0c7abcf_MD5.jpeg|Open: Pasted image 20241017164029.png]]
 ![[fdb7a5c78207bc0d41c74d0bd0c7abcf_MD5.jpeg]]
+
+Then to intersect
+[[7409bc6641b03cdb64fcd948eeb84044_MD5.jpeg|Open: Pasted image 20241017164521.png]]
+![[7409bc6641b03cdb64fcd948eeb84044_MD5.jpeg]]
