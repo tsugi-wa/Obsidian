@@ -96,3 +96,10 @@ click edit pencil in california layer, select state provinces shp, click califor
 Then to intersect
 [[7409bc6641b03cdb64fcd948eeb84044_MD5.jpeg|Open: Pasted image 20241017164521.png]]
 ![[7409bc6641b03cdb64fcd948eeb84044_MD5.jpeg]]
+or [[bd2752e09e6cf49a8cfa6d7a248f45d6_MD5.jpeg|Open: Pasted image 20241017164609.png]]
+![[bd2752e09e6cf49a8cfa6d7a248f45d6_MD5.jpeg]]
+[[c32724a8f963dff24142fd8124836197_MD5.jpeg|Open: Pasted image 20241017164624.png]]
+![[c32724a8f963dff24142fd8124836197_MD5.jpeg]]
+output:
+[[0cf3838fdf64a175da25397822a1b328_MD5.jpeg|Open: Pasted image 20241017164630.png]]
+![[0cf3838fdf64a175da25397822a1b328_MD5.jpeg]]
