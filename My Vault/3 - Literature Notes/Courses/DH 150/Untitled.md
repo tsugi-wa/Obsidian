@@ -77,3 +77,17 @@ i.e. 100 mile buffer: each point is fixed at 100 mile radius:
 ![[42b381b4e1b6b18c3ba4a36f9afff5bd_MD5.jpeg]]
 
 parmeters join -> buff - > intersect
+
+Example of other possibility tools: Whittle down to specific state or county by intersecting with that county shp file. 
+[[71b92da871eebc0ac2c75c551c022796_MD5.jpeg|Open: Pasted image 20241017163602.png]]
+![[71b92da871eebc0ac2c75c551c022796_MD5.jpeg]]
+
+to filter CAlifonria only
+[[879ef8f0b232978eea3994b1b07d8acb_MD5.jpeg|Open: Pasted image 20241017163849.png]]
+![[879ef8f0b232978eea3994b1b07d8acb_MD5.jpeg]][[073412ce8dc243e26caf5471431e937d_MD5.jpeg|Open: Pasted image 20241017163926.png]]
+![[073412ce8dc243e26caf5471431e937d_MD5.jpeg]][[f75cfb592cafbe49636adeb5ade759a6_MD5.jpeg|Open: Pasted image 20241017163940.png]]
+![[f75cfb592cafbe49636adeb5ade759a6_MD5.jpeg]][[13882d874ef19a3a9c16425113ee3edc_MD5.jpeg|Open: Pasted image 20241017163956.png]]
+![[13882d874ef19a3a9c16425113ee3edc_MD5.jpeg]]
+select state provinces shp, click california
+[[fdb7a5c78207bc0d41c74d0bd0c7abcf_MD5.jpeg|Open: Pasted image 20241017164029.png]]
+![[fdb7a5c78207bc0d41c74d0bd0c7abcf_MD5.jpeg]]
