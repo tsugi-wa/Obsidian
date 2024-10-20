@@ -388,6 +388,17 @@ length = current len = `len(s)`
 capacity = len of underlying array = `cap(s)`
 if both are zero: nil slice:  `s == nil`
 - otherwise panic: runtime error: slice bounds out of range with capacity 6
+convenient printing: 
+```
+var pow = []int{1, 2, 4, 8, 16, 32, 64, 128}
+
+func main() {
+	for i, v := range pow {
+		fmt.Println(i, v)
+	}
+}
+```
+
 ```
 package main
 
@@ -438,7 +449,6 @@ board[1][2] = "X"
 for i := 0; i < len(board); i++ { 
 	fmt.Printf("%s\n", strings.Join(board[i], " ")) 
 }
-
 ```
 append dynamically (will auto-move and update memory if exceeds capacity)
 ```
