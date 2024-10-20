@@ -216,6 +216,7 @@ func pow(x, n, lim float64) float64 {
 
 ## Exercise 1
 ```
+// computing sqr root by looping 10 times
 func Sqrt(x float64) float64 {
 	z := 1.0
 	for i := 1; i <= 10; i++ {
@@ -224,4 +225,18 @@ func Sqrt(x float64) float64 {
 	}
 	return z
 }
+
+// compute sqr root by stopping once new guess changes very little. 
+func Sqrt(x float64) float64 {
+	z := 1.0
+	lim := 0.00001
+	for {
+		v := z - (z*z-x)/(2*z) 
+		if math.Abs(v-z) < lim { break }
+		z = v 
+		fmt.Println(z) 
+	}
+	return z
+}
+
 ```
