@@ -456,3 +456,29 @@ var s []int			// nil slice
 s = append(s, 0)	// [0]
 s = append(s, 2, 3) // [0, 2, 3]
 ```
+### Example
+```
+package main
+
+import "golang.org/x/tour/pic"
+
+func Pic(dx, dy int) [][]uint8 {
+	image := make([][]uint8, dy) //slice of length dy
+	for y := 0; y < dy; y++ { 
+		row := make([]uint8, dx) //each dx slice of 8-bit unsigned
+		for x := 0; x < dx; x++ { //fpr each element in row
+			row[x] = uint8((x+y)/2)
+		}
+		image[y] = row
+	}
+	return image
+}
+
+func main() {
+	pic.Show(Pic)
+}
+```
+[[6e0aef73ce6873ce266bbd3f75ff5e5d_MD5.jpeg]]
+![[6e0aef73ce6873ce266bbd3f75ff5e5d_MD5.jpeg]]
+## Maps
+
