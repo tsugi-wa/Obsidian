@@ -313,3 +313,29 @@ output: counting, done, 9,8,7,6,5,4,3,2,1,0
 
 # More types
 ## Pointers
+```
+var p *int
+p := &i         // point to i
+fmt.Println(*p) // read i
+*p = 21         // set i
+```
+## Structs
+```
+type Vertex struct {
+	X int
+	Y int
+}
+
+func main() {
+	fmt.Println(Vertex{1, 2})
+	v := Vertex{1, 2}
+	
+	p := &v         //points to struct v
+	p.X = 1e9       // sets v.X.   shorthand to (*p).X
+	fmt.Println(v)  // output: {1000000000 2}
+	
+	v2 := Vertex{X: 1}  // = {1,0}
+	v3 = Vertex{}      // = {0,0}
+	p  = &Vertex{1, 2} // p of type *Vertex
+}
+```
