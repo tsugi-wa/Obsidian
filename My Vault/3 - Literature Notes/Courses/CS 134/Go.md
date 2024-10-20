@@ -28,7 +28,7 @@ x, y int
 ptr *int
 arr [3]int
 ```
-## add ints
+## arithmetic
 ```
 func add(x, y int) int {  // short for (x int, y int)
 	z := x+y
@@ -37,6 +37,10 @@ func add(x, y int) int {  // short for (x int, y int)
 
 func main() {
 	fmt.Println(add(42, 13))
+	var x, y int = 3, 4
+	var f float64 = math.Sqrt(float64(x*x + y*y))
+	var z uint = uint(f)
+	fmt.Println(x, y, z)
 }
 ```
 ## swap str
@@ -50,7 +54,7 @@ func main() {
 	fmt.Println(a, b)
 }
 ```
-# naked return (shorthand)
+## naked return (shorthand)
 ```
 func split(sum int) (x, y int) {
 	x = sum * 4 / 9  // not := because already declared above as ret
@@ -106,18 +110,21 @@ var (
 	ToBe   bool       = false
 	MaxInt uint64     = 1<<64 - 1
 	z      complex128 = cmplx.Sqrt(-5 + 12i)
+	s string
 )
 
 func main() {
 	fmt.Printf("Type: %T Value: %v\n", ToBe, ToBe)
 	fmt.Printf("Type: %T Value: %v\n", MaxInt, MaxInt)
 	fmt.Printf("Type: %T Value: %v\n", z, z)
+	fmt.Printf("Type: %T Value: %q\n", s, s)
 }
 _____________________________________________________________________
 output:
-Type: bool Value: false
-Type: uint64 Value: 18446744073709551615
-Type: complex128 Value: (2+3i)
+Type: bool 			Value: false
+Type: uint64 		Value: 18446744073709551615
+Type: complex128 	Value: (2+3i)
+Type: string 		Value: ""
 ```
 all types in Go:
 ```
@@ -138,3 +145,12 @@ float32 float64
 complex64 complex128
 ```
 
+## Type conversion
+```
+func main() {
+	i := 42
+	f := float64(i)
+	u := uint(f)
+	fmt.Println(x, y, z)
+}
+```
