@@ -91,6 +91,46 @@ func main() {
 
 ## Closure Functions
 ```
+func adder() func(int) int { //returns func
+	sum := 0
+	return func(x int) int { //that remembers sum
+		sum += x
+		return sum
+	}
+}
+
+func main() {
+	addr := adder()
+	for i := 0; i < 10; i++ {
+		fmt.Println(addr(i))
+	}
+}
+```
+
+### Example : fibonacci
+```
+package main
+
+import "fmt"
+
+// returns func
+func fibonacci() func() int {
+	f_0 := 0
+	f_1 := 1
+	return func() int { //that remembers f_0 and f_1
+		temp := f_0
+		f_0 = f_1
+		f_1 = temp + f_1
+		return temp
+	}
+}
+
+func main() {
+	f := fibonacci()
+	for i := 0; i < 10; i++ {
+		fmt.Println(f())
+	}
+}
 ```
 # Variables
 ```
