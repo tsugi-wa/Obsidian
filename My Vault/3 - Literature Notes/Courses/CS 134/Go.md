@@ -214,7 +214,7 @@ func pow(x, n, lim float64) float64 {
 }
 ```
 
-## Exercise 1
+## Exercise
 ```
 // computing sqr root by looping 10 times
 func Sqrt(x float64) float64 {
@@ -239,4 +239,52 @@ func Sqrt(x float64) float64 {
 	return z
 }
 
+func main() {
+	fmt.Println(Sqrt(1), math.Sqrt(1))
+	fmt.Println(Sqrt(2), math.Sqrt(2))
+	fmt.Println(Sqrt(3), math.Sqrt(3))
+	fmt.Println(Sqrt(253), math.Sqrt(253))
+}
 ```
+## Switch
+built-in "break" (no fall-through cases)
+cases can be vars not just consts or ints
+
+```
+package main
+
+import (
+	"fmt"
+	"time"
+)
+
+func main() {
+	fmt.Println("When's Saturday?")
+	today := time.Now().Weekday() //time from 2009-11-10 23:00:00 UTC
+	switch time.Saturday {
+		case today + 0:
+			fmt.Println("Today.")
+		case today + 1:
+			fmt.Println("Tomorrow.")
+		case today + 2:
+			fmt.Println("In two days.")
+		default:
+			fmt.Println("Too far away.")
+	}
+}
+
+```
+always true switches == long if/else chains
+```
+t := time.Now()
+switch {
+	case t.Hour() < 12:
+		fmt.Println("Good morning!")
+	case t.Hour() < 17:
+		fmt.Println("Good afternoon.")
+	default:
+		fmt.Println("Good evening.")
+}
+```
+## Defer
+delays execution
