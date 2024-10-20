@@ -167,4 +167,9 @@ g := 0.867 + 0.5i // complex128
 ## constants
 ```
 const Truth = true  // cannot use :=
+
+var bb = 1 << 300 // error overflow 
+const bb = 1 << 300  //works because const untyped values 
+fmt.Println(bb) // error 
+fmt.Println(bb*1.0) //works
 ```
