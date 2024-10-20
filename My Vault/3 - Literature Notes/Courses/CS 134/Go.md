@@ -287,4 +287,29 @@ switch {
 }
 ```
 ## Defer
-delays execution
+delays execution until after its parent function exits
+```
+func main() {
+	defer fmt.Println("world")
+	fmt.Println("hello")
+}
+
+// output: hello world
+```
+**multiple** defers execute popping stack (reverse order)
+```
+func main() {
+	fmt.Println("counting")
+
+	for i := 0; i < 10; i++ {
+		defer fmt.Println(i)
+	}
+
+	fmt.Println("done")
+}
+
+output: counting, done, 9,8,7,6,5,4,3,2,1,0
+```
+
+# More types
+## Pointers
