@@ -69,19 +69,7 @@ func main() {
 
 
 ```
-## For
-```	
-sum := 0
-for i := 0; i < 10; i++ {  // { } are required always
-	sum += i // i only visible inside for loop
-}
 
-// only condition required, = while loop
-sum := 1
-for sum < 1000 {
-	sum += sum
-}
-```
 # Variables
 ```
 var c, python, java bool  //all bools, default = false
@@ -186,4 +174,32 @@ var bb = 1 << 300 // error overflow
 const bb = 1 << 300  //works because const untyped values 
 fmt.Println(bb) // error, tries to inference to int64 but too big
 fmt.Println(bb*1.0) //works by converting to float64
+```
+
+# Flow control
+## Loops
+```	
+sum := 0
+for i := 0; i < 10; i++ {  // {} always required 
+	sum += i // i only visible inside for loop
+}
+
+// all 3 for args optional
+
+//while loop: 
+sum := 1
+for sum < 1000 {
+	sum += sum
+}
+
+// forever loop
+for {}
+```
+
+## If
+```
+func sqrt(x float64) string {
+	if x < 0 { return sqrt(-x) + "i" }
+	return fmt.Sprint(math.Sqrt(x))  //fmt Spring formats into str
+}
 ```
