@@ -37,10 +37,11 @@ func add(x, y int) int {  // short for (x int, y int)
 
 func main() {
 	fmt.Println(add(42, 13))
-	var x, y int = 3, 4
-	var f float64 = math.Sqrt(float64(x*x + y*y))
-	var z uint = uint(f)
-	fmt.Println(x, y, z)
+	
+	x, y := 3, 4
+	var f = math.Sqrt(float64(x*x + y*y))  //sqrt requires float input
+	var z uint = uint(f)  // var zuint = f  returns error, MANUAL convert
+	fmt.Println(x, y, z) //3,4,5
 }
 ```
 ## swap str
@@ -154,3 +155,4 @@ func main() {
 	fmt.Println(x, y, z)
 }
 ```
+## Type inference
