@@ -156,3 +156,15 @@ func main() {
 }
 ```
 ## Type inference
+```
+var i int
+j := i // j is also int (whatever type i was)
+
+i := 42           // int
+f := 3.142        // float64
+g := 0.867 + 0.5i // complex128
+```
+## constants
+```
+const Truth = true  // cannot use :=
+```
