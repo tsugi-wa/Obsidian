@@ -503,4 +503,14 @@ mutating:
 //insert key
 m["bell"] = Vertex{40.68, -74}
 
+//retrieve copy of value
+elem = m[key]
+
+//delete
+delete(m, key)
+
+//test key exists
+v, ok := m["Answer"]  //v=0, ok=false
+m["Answer"] = 2
+v, ok = m["Answer"]  //v=2, ok=true
 ```
