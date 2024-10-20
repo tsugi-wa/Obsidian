@@ -337,5 +337,36 @@ func main() {
 	v2 := Vertex{X: 1}  // = {1,0}
 	v3 = Vertex{}      // = {0,0}
 	p  = &Vertex{1, 2} // p of type *Vertex
+	fmt.Printf("Type: %T, Value: %v\n", p, p)  
+	//output: Type: *main.Vertex, Value: &{1 2}
+}
+```
+## Arrays
+fixed size as size is part of the type
+```
+package main
+
+import "fmt"
+
+func main() {
+	var a [2]string
+	a[0] = "Hello"
+	a[1] = "World"
+	fmt.Println(a[0], a[1]) //Hello World
+	fmt.Println(a) //[Hello World]
+
+	primes := [6]int{2, 3, 5, 7, 11, 13}
+	fmt.Println(primes) //[2 3 5 7 11 13]
+}
+```
+### Slices 
+indexing same asi nP
+
+```
+func main() {
+	primes := [6]int{2, 3, 5, 7, 11, 13}
+
+	var s []int = primes[1:4]  //[3 5 7]
+	fmt.Println(s)
 }
 ```
