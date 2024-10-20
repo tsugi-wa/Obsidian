@@ -22,8 +22,9 @@ fmt.Println(math.Pi)
 
 # Functions
 ```
-func add(x int, y int) int {
-	return x + y
+func add(x, y int) int {  // short for (x int, y int)
+	z := x+y
+	return z
 }
 
 func main() {
@@ -31,11 +32,22 @@ func main() {
 }
 
 ```
+
+```
+func swap(x, y string) (string, string) {
+	return y, x
+}
+
+func main() {
+	a, b := swap("hello", "world")
+	fmt.Println(a, b)
+}
+```
 # Variables
 ```
-x int
+var x int
 x int, y int
 x, y int
-p *int
-a [3]int
+ptr *int
+arr [3]int
 ```
