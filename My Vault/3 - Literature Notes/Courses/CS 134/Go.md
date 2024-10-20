@@ -213,3 +213,15 @@ func pow(x, n, lim float64) float64 {
 	return lim  // v only within if-else statement scope
 }
 ```
+
+## Exercise 1
+```
+func Sqrt(x float64) float64 {
+	z := 1.0
+	for i := 1; i <= 10; i++ {
+		z -= (z*z - x) / (2*z)
+		fmt.Println(z)
+	}
+	return z
+}
+```
