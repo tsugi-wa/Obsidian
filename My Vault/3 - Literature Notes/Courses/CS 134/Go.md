@@ -383,7 +383,11 @@ func main() {
 }
 ```
 
-## Slice literals
+### Slice literals
+length = current len = `len(s)`
+capacity = len of underlying array = `cap(s)`
+if both are zero: nil slice:  `s == nil`
+- otherwise panic: runtime error: slice bounds out of range with capacity 6
 ```
 package main
 
@@ -392,12 +396,9 @@ import "fmt"
 func main() {
 	q := []int{2, 3, 5, 7, 11, 13} // creates array len 6, then slice ontop
 	r := []bool{true, false, true, true, false, true}
-	fmt.Println(r)
 
-	s := []struct {
-		i int
-		b bool
-	}{
+	s := []struct {i int, b bool}
+	{
 		{2, true},
 		{3, false},
 		{5, true},
@@ -405,6 +406,23 @@ func main() {
 		{11, false},
 		{13, true},
 	}
-	fmt.Println(s)
+}
+```
+### Dynamically-Sized Slices
+```
+func main() {
+	a := make([]int, 5)  // len(a)=5
+	printSlice("a", a)
+
+	b := make([]int, 0, 5)
+	printSlice("b", b)
+
+	c := b[:2]
+	printSlice("c", c)
+}
+
+func printSlice(s string, x []int) {
+	fmt.Printf("%s len=%d cap=%d %v\n",
+		s, len(x), cap(x), x)
 }
 ```
