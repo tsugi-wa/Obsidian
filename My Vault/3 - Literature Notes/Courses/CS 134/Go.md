@@ -69,7 +69,15 @@ func main() {
 
 
 ```
-
+### Functions in variables
+```
+func main() {
+	hypot := func(x, y float64) float64 {
+		return math.Sqrt(x*x + y*y)
+	}
+	fmt.Println(hypot(5, 12))
+}
+```
 # Variables
 ```
 var c, python, java bool  //all bools, default = false
@@ -514,3 +522,28 @@ v, ok := m["Answer"]  //v=0, ok=false
 m["Answer"] = 2
 v, ok = m["Answer"]  //v=2, ok=true
 ```
+### Example,  WordCounter
+```
+package main
+
+import (
+	"golang.org/x/tour/wc"
+	"fmt"
+	"strings"
+)
+
+func WordCount(s string) map[string]int {
+	m := make(map[string]int)
+	split_fields := strings.Fields(s)
+	
+	for _, v := range split_fields {
+		m[v]++
+	}
+	return m
+}
+
+func main() {
+	wc.Test(WordCount)
+}
+```
+
