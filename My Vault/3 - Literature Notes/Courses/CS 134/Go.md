@@ -360,13 +360,51 @@ func main() {
 }
 ```
 ### Slices 
-indexing same asi nP
+indexing same as in Python
 
 ```
 func main() {
 	primes := [6]int{2, 3, 5, 7, 11, 13}
 
 	var s []int = primes[1:4]  //[3 5 7]
+	fmt.Println(s)
+}
+```
+
+only pts to existing array, so underlying changes reflected in old slices
+```
+func main() {
+	names := [4]string{"John", "Paul", "George", "Ringo"}
+	a := names[1:3]      // [Paul George]
+
+	a[0] = "XXX"
+	fmt.Println(a)       // [XXX George]
+	fmt.Println(names)   // [John XXX George Ringo]
+}
+```
+
+## Slice literals
+```
+package main
+
+import "fmt"
+
+func main() {
+	q := []int{2, 3, 5, 7, 11, 13} // creates array len 6, then slice ontop
+	r := []bool{true, false, true, true, false, true}
+	fmt.Println(r)
+
+	s := []struct {
+		i int
+		b bool
+	}{
+		{2, true},
+		{3, false},
+		{5, true},
+		{7, true},
+		{11, false},
+		{13, true},
+	}
 	fmt.Println(s)
 }
 ```
