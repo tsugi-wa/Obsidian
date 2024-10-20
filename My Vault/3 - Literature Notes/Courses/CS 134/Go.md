@@ -411,18 +411,38 @@ func main() {
 ### Dynamically-Sized Slices
 ```
 func main() {
-	a := make([]int, 5)  // len(a)=5
-	printSlice("a", a)
+	a := make([]int, 5)
+	printSlice("a", a)  //a len=5 cap=5 [0 0 0 0 0]
 
 	b := make([]int, 0, 5)
-	printSlice("b", b)
+	printSlice("b", b) //b len=0 cap=5 []
 
-	c := b[:2]
-	printSlice("c", c)
+	c := b[:2] 
+	printSlice("c", c) //c len=2 cap=5 [0 0]
 }
 
 func printSlice(s string, x []int) {
-	fmt.Printf("%s len=%d cap=%d %v\n",
-		s, len(x), cap(x), x)
+	fmt.Printf("len=%d cap=%d %v\n", len(s), cap(s), s)
 }
+```
+2D
+```
+board := [][]string
+{ 
+	[]string{"_", "_", "_"}, 
+	[]string{"_", "_", "_"}, 
+	[]string{"_", "_", "_"}, 
+}
+board[1][2] = "X"
+
+for i := 0; i < len(board); i++ { 
+	fmt.Printf("%s\n", strings.Join(board[i], " ")) 
+}
+
+```
+append dynamically (wil auto-move and updated)
+```
+var s []int			// nil slice
+s = append(s, 0)	// [0]
+s = append(s, 2, 3) // [0, 2, 3]
 ```
