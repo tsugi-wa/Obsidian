@@ -44,7 +44,7 @@ func main() {
 	fmt.Println(x, y, z) //3,4,5
 }
 ```
-## swap str
+## string
 ```
 func swap(x, y string) (string, string) { # returns two str
 	return y, x
@@ -67,6 +67,20 @@ func main() {
 	fmt.Println(split(17))
 }
 
+
+```
+## For
+```	
+sum := 0
+for i := 0; i < 10; i++ {  // { } are required always
+	sum += i // i only visible inside for loop
+}
+
+// only condition required, = while loop
+sum := 1
+for sum < 1000 {
+	sum += sum
+}
 ```
 # Variables
 ```
@@ -170,6 +184,6 @@ const Truth = true  // cannot use :=
 
 var bb = 1 << 300 // error overflow 
 const bb = 1 << 300  //works because const untyped values 
-fmt.Println(bb) // error 
-fmt.Println(bb*1.0) //works
+fmt.Println(bb) // error, tries to inference to int64 but too big
+fmt.Println(bb*1.0) //works by converting to float64
 ```
