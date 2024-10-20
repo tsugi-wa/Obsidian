@@ -69,7 +69,8 @@ func main() {
 
 
 ```
-### Functions in variables
+## Functions as values
+as variables
 ```
 func main() {
 	hypot := func(x, y float64) float64 {
@@ -77,6 +78,19 @@ func main() {
 	}
 	fmt.Println(hypot(5, 12))
 }
+```
+as parameters
+```
+func compute(fn func(float64, float64) float64) float64 {
+	return fn(3, 4)
+}
+func main() {
+	fmt.Println(compute(math.Pow))
+}
+```
+
+## Closure Functions
+```
 ```
 # Variables
 ```
