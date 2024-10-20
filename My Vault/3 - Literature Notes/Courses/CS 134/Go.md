@@ -93,6 +93,7 @@ func main() {
 }
 ```
 ## Types
+example of () blocks for import and var
 ```
 package main
 
@@ -112,5 +113,28 @@ func main() {
 	fmt.Printf("Type: %T Value: %v\n", MaxInt, MaxInt)
 	fmt.Printf("Type: %T Value: %v\n", z, z)
 }
-
+_____________________________________________________________________
+output:
+Type: bool Value: false
+Type: uint64 Value: 18446744073709551615
+Type: complex128 Value: (2+3i)
 ```
+all types in Go:
+```
+bool //default=false
+
+string //default=""
+
+int  int8  int16  int32  int64  //int = 64 bit on 64-bit system
+uint uint8 uint16 uint32 uint64 uintptr 
+
+byte // alias for uint8
+
+rune // alias for int32
+     // represents a Unicode code point
+
+float32 float64
+
+complex64 complex128
+```
+
