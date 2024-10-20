@@ -440,7 +440,7 @@ for i := 0; i < len(board); i++ {
 }
 
 ```
-append dynamically (wil auto-move and updated)
+append dynamically (will auto-move and update memory if exceeds capacity)
 ```
 var s []int			// nil slice
 s = append(s, 0)	// [0]
