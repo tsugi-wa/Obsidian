@@ -21,6 +21,13 @@ fmt.Println(math.Pi)
 
 
 # Functions
+declaring arguments
+```
+x int, y int
+x, y int
+ptr *int
+arr [3]int
+```
 ## add ints
 ```
 func add(x, y int) int {  // short for (x int, y int)
@@ -58,9 +65,52 @@ func main() {
 ```
 # Variables
 ```
-var x int
-x int, y int
-x, y int
-ptr *int
-arr [3]int
+var c, python, java bool  //all bools, default = false
+
+func main() {
+	var i int  //int default = 0
+	fmt.Println(i, c, python, java) 
+}
+
+```
+initialized: 
+```
+var i, j int = 1, 2  
+
+func main() {
+	var c, python, java = true, false, "no!"  //type optional w/ init
+	fmt.Println(i, j, c, python, java)
+}
+```
+quick initializing shorthand
+```
+var i, j int = 1, 2  // := not usable outside functions
+
+func main() {
+	k := 3
+	c, python, java := true, false, "no!"
+	fmt.Println(i, j, k, c, python, java)
+}
+```
+## Types
+```
+package main
+
+import (
+	"fmt"
+	"math/cmplx"
+)
+
+var (
+	ToBe   bool       = false
+	MaxInt uint64     = 1<<64 - 1
+	z      complex128 = cmplx.Sqrt(-5 + 12i)
+)
+
+func main() {
+	fmt.Printf("Type: %T Value: %v\n", ToBe, ToBe)
+	fmt.Printf("Type: %T Value: %v\n", MaxInt, MaxInt)
+	fmt.Printf("Type: %T Value: %v\n", z, z)
+}
+
 ```
