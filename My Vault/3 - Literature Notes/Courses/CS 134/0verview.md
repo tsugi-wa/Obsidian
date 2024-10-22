@@ -7,12 +7,12 @@
 |      |                                                                                               |                                                         |
 ## Readings
 
-| Week | Reading (required)                                                                                                                                                       | Reading (reference)                                                                 |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| 1    | Vitillo Ch 1                                                                                                                                                             | Steen Ch 1-2                                                                        |
-| 2    | MapReduce paper                                                                                                                                                          | Kleppmann Ch 10<br>Steen Ch 3.1, 3.2-3.4 (less important) <br>Steen Chapter 4.1-4.3 |
-| 3    | Steen Ch 5.1, 5.2 <br>Vitillo Ch 8                                                                                                                                       |                                                                                     |
-| 4    | Steen Ch 7<br>Vitillo Ch 10 (see Raft leader election, Ch 9)<br>[GFS paper](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) |                                                                                     |
+| Week | Reading (required)                                                                                           | Reading (reference)                                                                 |
+| ---- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| 1    | Vitillo Ch 1                                                                                                 | Steen Ch 1-2                                                                        |
+| 2    | MapReduce paper                                                                                              | Kleppmann Ch 10<br>Steen Ch 3.1, 3.2-3.4 (less important) <br>Steen Chapter 4.1-4.3 |
+| 3    |                                                                                                              | Steen Ch 5.1, 5.2 <br>Vitillo Ch 8                                                  |
+| 4    | <br>[GFS paper](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) | Steen Ch 7<br>Vitillo Ch 10 (see Raft leader election, Ch 9)                        |
 
 ## Office Hours
 

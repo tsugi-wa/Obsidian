@@ -2,7 +2,7 @@
 
 | Week | Lecture #                                                           | Summary                 |
 | ---- | ------------------------------------------------------------------- | ----------------------- |
-| 1.1  | [[My Vault/3 - Literature Notes/Courses/CS 130/0verview\|0verview]] | short syllabus overview |
+| 1.1  | [[My Vault/7  - Archive/CS 130/0verview\|0verview]] | short syllabus overview |
 | 1.2  |                                                                     |                         |
 
 ## Course format
