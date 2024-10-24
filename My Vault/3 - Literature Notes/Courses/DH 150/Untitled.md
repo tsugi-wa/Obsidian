@@ -103,3 +103,12 @@ or [[bd2752e09e6cf49a8cfa6d7a248f45d6_MD5.jpeg|Open: Pasted image 20241017164609
 output:
 [[0cf3838fdf64a175da25397822a1b328_MD5.jpeg|Open: Pasted image 20241017164630.png]]
 ![[0cf3838fdf64a175da25397822a1b328_MD5.jpeg]]
+
+## Lecture 5
+
+[[fe4a02a4d326c8b389eeb07f8e848811_MD5.jpeg|Open: Pasted image 20241024160103.png]]
+![[fe4a02a4d326c8b389eeb07f8e848811_MD5.jpeg]]
+
+in attribute table to see row:
+[[0bc717b9894d2cc11fed7310f12213f5_MD5.jpeg|Open: Pasted image 20241024160422.png]]
+![[0bc717b9894d2cc11fed7310f12213f5_MD5.jpeg]]
