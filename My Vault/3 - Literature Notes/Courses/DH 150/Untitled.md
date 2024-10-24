@@ -119,3 +119,5 @@ calculate area of each row and add to attribute table
 if you want specific units project to different ES25 first then $area:
 [[f4628444bd0e766928d9b0354bda4bae_MD5.jpeg|Open: Pasted image 20241024160734.png]]
 ![[f4628444bd0e766928d9b0354bda4bae_MD5.jpeg]]
+
+buffer -> parammeters tab --> dissolve result checked --> Run --> combine all segments smoothly
