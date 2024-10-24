@@ -112,3 +112,10 @@ output:
 in attribute table to see row:
 [[0bc717b9894d2cc11fed7310f12213f5_MD5.jpeg|Open: Pasted image 20241024160422.png]]
 ![[0bc717b9894d2cc11fed7310f12213f5_MD5.jpeg]]
+[[e89b070f79ab6658147526e5899bce64_MD5.jpeg|Open: Pasted image 20241024160535.png]]
+![[e89b070f79ab6658147526e5899bce64_MD5.jpeg]]
+
+calculate area of each row and add to attribute table
+if you want specific units project to different ES25 first then $area:
+[[f4628444bd0e766928d9b0354bda4bae_MD5.jpeg|Open: Pasted image 20241024160734.png]]
+![[f4628444bd0e766928d9b0354bda4bae_MD5.jpeg]]
