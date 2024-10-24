@@ -121,3 +121,8 @@ if you want specific units project to different ES25 first then $area:
 ![[f4628444bd0e766928d9b0354bda4bae_MD5.jpeg]]
 
 buffer -> parammeters tab --> dissolve result checked --> Run --> combine all segments smoothly
+
+right click shape file --> Filter --> 
+
+"building" NOT IN ('yes', 'farm')
+"highway" NOT IN ('footway', 'path', 'unclassified', 'track') AND "highway" IS NOT NULL
