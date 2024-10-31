@@ -141,4 +141,8 @@ right click shape file --> Filter -->
 - dot density
 - cartography - distorted maps to represent values (i.e. resized countries)
 - flow maps
-- 
+
+
+
+## Exporting maps in qgis
+Project -> New Print Layout -L
