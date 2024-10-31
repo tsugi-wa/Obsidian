@@ -126,3 +126,13 @@ right click shape file --> Filter -->
 
 "building" NOT IN ('yes', 'farm')
 "highway" NOT IN ('footway', 'path', 'unclassified', 'track') AND "highway" IS NOT NULL
+
+
+
+# Lecture 6
+"Truthful" vs "Factual"
+- disco sales rocketing at year? invest now!
+- Choropleth maps (color gradient)
+	- good for predefined regions/states, immediate visual cue
+	- assumes uniformity across region
+- 
