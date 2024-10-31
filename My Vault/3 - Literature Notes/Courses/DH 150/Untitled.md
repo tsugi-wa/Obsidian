@@ -139,4 +139,4 @@ right click shape file --> Filter -->
 	- puts points on geographic center of region not where population/data really is
 - heat maps
 - dot density
-- 
+- cartography - distorted maps to represent values (i.e. resized countries)
