@@ -159,3 +159,9 @@ and add legend too
 to edit properties:
 [[34a7d4b2d26aee3b10c78881670ad2e7_MD5.jpeg|Open: Pasted image 20241031160413.png]]
 ![[34a7d4b2d26aee3b10c78881670ad2e7_MD5.jpeg]]
+
+[[6803152395300ed3f48b840aebabb59d_MD5.jpeg|Open: Pasted image 20241031160645.png]]
+![[6803152395300ed3f48b840aebabb59d_MD5.jpeg]]
+[[a5e12b69d92c4c9d4f18fe0c03c80775_MD5.jpeg|Open: Pasted image 20241031160937.png]]
+![[a5e12b69d92c4c9d4f18fe0c03c80775_MD5.jpeg]]
+can use inkscape to adjust all borders, icons, text label size, etc
