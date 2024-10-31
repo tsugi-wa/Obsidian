@@ -165,3 +165,5 @@ to edit properties:
 [[a5e12b69d92c4c9d4f18fe0c03c80775_MD5.jpeg|Open: Pasted image 20241031160937.png]]
 ![[a5e12b69d92c4c9d4f18fe0c03c80775_MD5.jpeg]]
 can use inkscape to adjust all borders, icons, text label size, etc
+
+### qgis2web
