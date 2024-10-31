@@ -137,4 +137,6 @@ right click shape file --> Filter -->
 	- assumes uniformity across region
 - Proportional Symbol Maps
 	- puts points on geographic center of region not where population/data really is
-	- 
+- heat maps
+- dot density
+- 
