@@ -145,4 +145,13 @@ right click shape file --> Filter -->
 
 
 ## Exporting maps in qgis
-Project -> New Print Layout -L
+Project -> New Print Layout -
+
+[[b1d7e7f3d8b0a2539840911de7ca180e_MD5.jpeg|Open: Pasted image 20241031155154.png]]
+![[b1d7e7f3d8b0a2539840911de7ca180e_MD5.jpeg]]
+[[1925faa731156cafb0d15ae50825f1e3_MD5.jpeg|Open: Pasted image 20241031155217.png]]
+![[1925faa731156cafb0d15ae50825f1e3_MD5.jpeg]]
+to update to original map
+[[cdfa2580f847982bded383ddb33d0ada_MD5.jpeg|Open: Pasted image 20241031155554.png]]
+![[cdfa2580f847982bded383ddb33d0ada_MD5.jpeg]]
+can change to miles
