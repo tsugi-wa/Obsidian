@@ -135,4 +135,6 @@ right click shape file --> Filter -->
 - Choropleth maps (color gradient)
 	- good for predefined regions/states, immediate visual cue
 	- assumes uniformity across region
-- 
+- Proportional Symbol Maps
+	- puts points on geographic center of region not where population/data really is
+	- 
