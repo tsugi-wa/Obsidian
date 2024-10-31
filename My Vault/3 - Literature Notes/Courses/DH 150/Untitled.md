@@ -140,3 +140,5 @@ right click shape file --> Filter -->
 - heat maps
 - dot density
 - cartography - distorted maps to represent values (i.e. resized countries)
+- flow maps
+- 
