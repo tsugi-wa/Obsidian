@@ -155,3 +155,7 @@ to update to original map
 [[cdfa2580f847982bded383ddb33d0ada_MD5.jpeg|Open: Pasted image 20241031155554.png]]
 ![[cdfa2580f847982bded383ddb33d0ada_MD5.jpeg]]
 can change to miles
+and add legend too
+to edit properties:
+[[34a7d4b2d26aee3b10c78881670ad2e7_MD5.jpeg|Open: Pasted image 20241031160413.png]]
+![[34a7d4b2d26aee3b10c78881670ad2e7_MD5.jpeg]]
