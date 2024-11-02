@@ -6,8 +6,8 @@
 | 1.2  | [[3 - Literature Notes/Courses/CS 134/Lecture 2 (10-2-2024)\|Lecture 2 (10-2-2024)]]          | Fallacies, thought experiments, practicality            |
 | 2.1  | [[Lecture 3 (10-7-2024)]]                                                                     | P2P architectures, Go, Concurrency, Race conditions     |
 | 2.2  | [[Lecture 4 (10-9-2024)]]                                                                     | RPC, failure-handling schemas, MapReduce                |
-| -    | Project 1                                                                                     | MapReduce wc                                            |
-| 3.1  |                                                                                               |                                                         |
+| -    | [[Project 1]]                                                                                 | MapReduce wc                                            |
+| 3.1  | [[Lecture 5 (10-14-2024)]]                                                                    |                                                         |
 | 3.2  |                                                                                               |                                                         |
 | 4.1  |                                                                                               |                                                         |
 | 4.2  |                                                                                               |                                                         |
