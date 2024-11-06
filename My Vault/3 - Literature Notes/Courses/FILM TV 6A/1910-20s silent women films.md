@@ -125,7 +125,7 @@ White skinned African American trying to blend in to white society, pass as whit
 Scandals, star system
 - purported decline morality in Hollywood (excessive lifestyles journalism) - “National Legion of Decency 1933” to reform Hollywood land
 - “Forbidden Hollywood” Clark gable visits  book
-Chaotic time, everyone flocking, dangerous  unregulated stunts, $$$
+Chaotic time, everyone flocking, dangerous  unregulated stunts, \$\$\$
 	brad Pitt, self indulgent
 	Pre-Code Era: infamous Roscoe Fatty Arbuckle personify sketchy behavior, murder of Rappe and other scandles
 PCA followed: hays code  as internal self censorship to avoid gov regulation
@@ -244,7 +244,7 @@ History -
   - Marlin Monroe sees is unbelievably monstrous at first naive 
   - 
 
-
+# Lecture 5.2
 
 OWI: Office of War Information: pressure women to work in factory during war, then come home to give veterans jobs. 
 - Hollywood advised by OWI to advertise Victorian women ideals in movies, “true women”
