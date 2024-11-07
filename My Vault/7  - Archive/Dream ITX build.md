@@ -23,11 +23,18 @@ Estimated Wattage: 334W
 | Silent Linear               | [Gazzew Bobagum](https://milktooth.com/products/switches/bobagum)                                                                                                                        | ~~$18.99~~ $6.50  | ~~$20.79~~ $8.17  | ~~Sept 9~~    |
 | Deep Linear                 | [Akko V3 Piano Pro x45](https://milktooth.com/products/switches/piano-pro)                                                                                                               | ~~$16.99~~ $15.50 | ~~$18.60~~ $17.17 | ~~Sept 9~~    |
 | Tactile                     | [Akko V3 Cream Blue Pro](https://milktooth.com/products/switches/cream-blue-pro)                                                                                                         | ~~$13.99~~ $6.00  | ~~$15.32~~ $7.66  | ~~Sept 9~~    |
-| Japan dessert keycap        | [Etsy Kakigori and Meiji Yogurt Keycap](https://www.etsy.com/listing/191062383/custom-esc-keycap-for-cherry-mx-swtich?transaction_id=4320356917)                                         | $10.00            | $20.85            |               |
-| Okami zodiac animal keycaps | [Etsy Okami Keycap Set](https://www.etsy.com/listing/1409857771/okami-keycap-set?ref=hp_active-mission-recs-rv-1-1)                                                                      | $15.00            | $21.01            |               |
+| Japan dessert keycap        | [Etsy Kakigori and Meiji Yogurt Keycap](https://www.etsy.com/listing/191062383/custom-esc-keycap-for-cherry-mx-swtich?transaction_id=4320356917)                                         | $10.00            | $20.85            | Nov 20-Dec 19 |
+| Okami zodiac animal keycaps | [Etsy Okami Keycap Set](https://www.etsy.com/listing/1409857771/okami-keycap-set?ref=hp_active-mission-recs-rv-1-1)                                                                      | $15.00            | $21.01            | Nov 13-23     |
 | Hiragana keycaps            | [AlephKey日文hiragana平假名Cherry原厂复古侧刻PBT热升华键帽](https://item.taobao.com/item.htm?from=cart&id=741224917679&skuId=5114618109951&spm=a1z0d.6639537%2F202410.item.d741224917679.c6e27484DCMPK1) | $26.78            | $40.00            |               |
 | Katakana keycaps            | [复古日语片假名侧刻键帽加厚PBT热升华原厂适配Wooting等机械键盘](https://item.taobao.com/item.htm?from=cart&id=834778981225&spm=a1z0d.6639537%2F202410.item.d834778981225.c6e27484DCMPK1)                           | $8.80             | $22.02            |               |
 |                             |                                                                                                                                                                                          | $134.57           | $187.24           |               |
+
+| category     | cost    | %      |
+| ------------ | ------- | ------ |
+| keyboard kit | $38.31  | 21.87% |
+| switches     | $33.00  | 18.84% |
+| keycaps      | $103.88 | 59.30% |
+| total        | $175.19 |        |
 
 ## Switch Comparison
 | Type    | Name                                                                                           | Amazon | Milktooth | Actuation Force | Bottom out force | Total Travel | Descriptors                                               |
