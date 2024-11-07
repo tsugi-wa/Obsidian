@@ -36,6 +36,24 @@ Estimated Wattage: 334W
 | keycaps      | $103.88 | 59.30% |
 | total        | $175.19 |        |
 
+# Bike
+
+| Name                                                  | Cost       |
+| ----------------------------------------------------- | ---------- |
+| Centurion Le Mans 12                                  | $100       |
+| BikeLink parking                                      | $5.00      |
+| New Tires x 2                                         | $43.69     |
+| Bikerowave - 2 inner tubes, teaching, flat tire tools | $30.31     |
+| Kryptonite NY U Lock 4x8"                             | $46.18     |
+| Masterlock cable                                      | $7.73      |
+| UCLA Bike shop - wheel truing                         | $10        |
+| UCLA Bike shop - new brakes, oiled chain              | $26.43     |
+| Amazon - Bike front basket                            | $14.55<br> |
+| Amazon - Bike cover                                   | $10.94     |
+| Amazon - Bike light                                   | $17.67     |
+| Amazon - Bike emergency pump                          | $10.94     |
+| Total                                                 | $323.44    |
+
 ## Switch Comparison
 | Type    | Name                                                                                           | Amazon | Milktooth | Actuation Force | Bottom out force | Total Travel | Descriptors                                               |
 | ------- | ---------------------------------------------------------------------------------------------- | ------ | --------- | --------------- | ---------------- | ------------ | --------------------------------------------------------- |
@@ -51,3 +69,4 @@ Estimated Wattage: 334W
 - aula f75($48) + 80 switches ($30 piano/fairy, $23 milk yellow) = $101-109
 - keychron v1 ($65) + 80 switches ($30 piano/fairy, $23 milk yellow) = $118-126
 - japan green keycaps (+$30)                         
+
