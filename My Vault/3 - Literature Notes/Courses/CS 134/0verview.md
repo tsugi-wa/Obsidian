@@ -9,10 +9,13 @@
 | -    | [[Project 1]]                                                                                 | MapReduce wc                                                    |
 | 3.1  | [[Lecture 5 (10-14-2024)]]                                                                    | Time sync, physical vs logical clocks, Lambert vs Vector clocks |
 | 3.2  | [[Lecture 6 (10-16-2024)]]                                                                    |                                                                 |
-| 4.1  |                                                                                               |                                                                 |
-| 4.2  |                                                                                               |                                                                 |
-| 5.1  |                                                                                               |                                                                 |
-| 5.2  |                                                                                               |                                                                 |
+| 4.1  | [[Lecture 7 (10-21-2024)]]                                                                    |                                                                 |
+| 4.2  | [[Lecture 8 (10-23-2024)]]                                                                    |                                                                 |
+| 5.1  | [[Lecture 9 (10-28-2024)]]                                                                    |                                                                 |
+| 5.2  | [[Lecture 10 (10-30-2024)]]                                                                   |                                                                 |
+| 7.2  | [[Lecture 11 (11-13-2024)]]                                                                   |                                                                 |
+| 8.1  | (11-18-2024)                                                                                  |                                                                 |
+| 8.2  | (11-20-2024)                                                                                  |                                                                 |
 ## Readings
 
 | Week | Reading (required)                                                                                           | Reading (reference)                                                                                                                                                                                                                                                                                                                                                                                                                             |     |
