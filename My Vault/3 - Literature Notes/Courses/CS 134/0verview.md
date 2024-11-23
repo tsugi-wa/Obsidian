@@ -11,8 +11,8 @@
 | 3.2  | [[Lecture 6 (10-16-2024)]]                                                                    |                                                                 |
 | 4.1  | [[Lecture 7 (10-21-2024)]]                                                                    | reliable, Replication, CDNs                                     |
 | 4.2  | [[Lecture 8 (10-23-2024)]]                                                                    | consistency models, GFS vs HDFS                                 |
-| 5.1  | [[Lecture 9 (10-28-2024)]]                                                                    | consensus, paxos                                                |
-| 5.2  | [[Lecture 10 (10-30-2024)]]                                                                   | Paxos, replication for Raft                                     |
+| 5.1  | [[Lecture 9 (10-28-2024)]]                                                                    | consensus, Paxos                                                |
+| 5.2  | [[Lecture 10 (10-30-2024)]]                                                                   | Paxos, replication, Raft                                        |
 | -    | Project 2                                                                                     |                                                                 |
 | 7.2  | [[Lecture 11 (11-13-2024)]]                                                                   |                                                                 |
 | 8.1  | [[Lecture 12 (11-18-2024)]]                                                                   |                                                                 |
