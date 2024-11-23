@@ -8,7 +8,7 @@
 | 2.2  | [[Lecture 4 (10-9-2024)]]                                                                     | RPC, failure-handling schemas, MapReduce                        |
 | -    | [[Project 1]]                                                                                 | MapReduce wc                                                    |
 | 3.1  | [[Lecture 5 (10-14-2024)]]                                                                    | Time sync, physical vs logical clocks, Lambert vs Vector clocks |
-| 3.2  | [[Lecture 6 (10-16-2024)]]                                                                    | !clocks, execution delivery properties                          |
+| 3.2  | [[Lecture 6 (10-16-2024)]]                                                                    | ===clocks, execution delivery properties===                     |
 | 4.1  | [[Lecture 7 (10-21-2024)]]                                                                    | reliable, Replication, CDNs                                     |
 | 4.2  | [[Lecture 8 (10-23-2024)]]                                                                    | consistency models, GFS vs HDFS                                 |
 | 5.1  | [[Lecture 9 (10-28-2024)]]                                                                    | consensus, Paxos                                                |
