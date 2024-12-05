@@ -21,9 +21,9 @@
 - **Impact**:  
     Helps advertisers, agencies, and platforms make informed, ethical decisions to create a safer online ecosystem.
 
-### Speaker Notes:
+### ### Speaker Notes:
 
-- **Batch Sizes**: Think of this as the number of examples the model processes before updating its parameters. Smaller batch sizes can be more precise but slower; larger sizes are faster but might miss some nuances.
-- **Epochs**: Each epoch represents one full pass through the dataset. Training often requires multiple epochs to ensure the model learns effectively without overfitting.
-- **Learning Rates**: This controls how much the model updates during each step. Too high, and it overshoots; too low, and progress is slow. Finding the right balance is critical.
-- **Weight Decays**: This adds a penalty for overly complex models, helping to reduce overfitting and improve generalization to unseen data.
+- **Batch Sizes**: Impact training speed and stability—smaller sizes are precise, larger sizes are faster.
+- **Epochs**: Define how thoroughly the model passes over, aka learns from the dataset—too few risks underfitting, too many risks overfitting.
+- **Learning Rates**: Control the pace of learning—crucial for balancing speed and accuracy.
+- **Weight Decays**: Prevent overfitting by discouraging overly complex models with penalties.
