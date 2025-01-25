@@ -126,16 +126,24 @@ How many calculations for gaming?
 	- how to fool human eye? just mimic movie camera
 	- integrate light over time instead of capture at split moment for motion blur
 - **Animation Principles** for traditional cellophane/layered animation
-	- timing, staging
-	- squash and stretch
+	- timing, cues/anticipation (movement way, mood/weight, drama/bore/confuse)
+	- squash and stretch (physic deformation conserving volume)
 	- slow in slow out, etc.
+	- staging, secondary motion of appendages, follow-thru
+	- arc motion not straight line (splines, polynomial piecewise)
+	- exaggeration cartoon physics (coyote and roadrunner)
+	- appeal (interesting, attractive, unusual, easy to understand)
 - 
-# Animation approaches
+# Approaches
 ## Keyframing and interpolation
 - artist specifies everything (keyframes), computer interpolates/smoothening inbetweens
 - from traditional disney animation keyposing approach
+- straight ahead: rapid, unprediceted (i.e. fire)
+- keyframes to capture extreme and plan inbetweens'
+- layers: big picture first then details every layer (face, limbs, heads, wrinkles, etc.)
 ## Kinematics & dynamics
 - physics, particles, rigid bodies (bones, ball), articulated figures (joints)
 - through physical simulation
 ## Procedural animation
 - automatic rules and simulations to produce animation
+- select animation parametsr (pos, angle, size) etc.

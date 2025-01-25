@@ -1,19 +1,20 @@
 ## Lecture/Topic Index
 
-| Week | Lecture                | Summary                            |
-| ---- | ---------------------- | ---------------------------------- |
-| 1.1  | [[Lecture 1 (Jan 6)]]  | C174A refresher vids, RT, syllabus |
-| 1.2  | [[Lecture 2 (Jan 8)]]  |                                    |
-| 2.1  | [[Lecture 3 (Jan 13)]] |                                    |
-| 2.2  | [[Lecture 4 (Jan 15)]] |                                    |
-| 3.1  | [[Lecture 5 (Jan 20]]  |                                    |
-| 3.2  | [[Lecture 6 (Jan 22)]] |                                    |
+| Week | Lecture                | Summary                                           |
+| ---- | ---------------------- | ------------------------------------------------- |
+| 1.1  | [[Lecture 1 (Jan 6)]]  | C174A refresher vids, RT, syllabus                |
+| 1.2  | [[Lecture 2 (Jan 8)]]  | GPU architecture, animation principles/approaches |
+| 2.1  | [[Lecture 3 (Jan 13)]] |                                                   |
+| 2.2  | [[Lecture 4 (Jan 15)]] |                                                   |
+| 3.1  | [[Lecture 5 (Jan 20]]  |                                                   |
+| 3.2  | [[Lecture 6 (Jan 22)]] |                                                   |
 
 ## Readings
 
 | Week | Reading (required) | Reading (reference) |     |
 | ---- | ------------------ | ------------------- | --- |
 | 1    | Appendix A         | textbook            |     |
+|      |                    |                     |     |
 
 
 ## Office Hours
