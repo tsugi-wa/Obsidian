@@ -1,0 +1,48 @@
+## Lecture/Topic Index
+
+| Week | Lecture                | Summary                            |
+| ---- | ---------------------- | ---------------------------------- |
+| 1.1  | [[Lecture 1 (Jan 6)]]  | C174A refresher vids, RT, syllabus |
+| 1.2  | [[Lecture 2 (Jan 8)]]  |                                    |
+| 2.1  | [[Lecture 3 (Jan 13)]] |                                    |
+| 2.2  | [[Lecture 4 (Jan 15)]] |                                    |
+| 3.1  | [[Lecture 5 (Jan 20]]  |                                    |
+| 3.2  | [[Lecture 6 (Jan 22)]] |                                    |
+
+## Readings
+
+| Week | Reading (required)                                                                                           | Reading (reference)                                                                                                                                                                                                                                                                                                                                                                                                                             |     |
+| ---- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 1    | Vitillo Ch 1                                                                                                 | Steen Ch 1-2                                                                                                                                                                                                                                                                                                                                                                                                                                    |     |
+
+
+## Office Hours
+
+|               | M   | T       | W      | R                                                | F           | Email                | Office        |
+| ------------- | --- | ------- | ------ | ------------------------------------------------ | ----------- | -------------------- | ------------- |
+| Prof. Rosario |     |         | 3:30-5 | [5:30-6:30](https://ucla.zoom.us/my/ryanrosario) |             | rrosario@cs.ucla.edu | Boelter 3531A |
+| Jack          |     |         |        |                                                  | 10:15-12:15 | yiyaoyu@cs.ucla.edu  | Boelter 3278  |
+| Arjun         |     | 12:30-2 |        |                                                  |             | arjuna5@g.ucla.edu   | Boelter 3286  |
+
+## Grading
+Assignments 0%, 20%, 20%
+Midterm 20%
+Team Project 40%
+Max 3 day late -10%/day
+No output = 0
+tiny-graphics.js WebGL 2.0 and starter code
+Textbook Computer Animation Rick Parent
+Refresh matrix and vector algebra and math physics in class
+
+branch.education
+## Textbooks
+- course-boring-verbose (AFTER lecture): [Distributed Systems v4.02](https://www.distributed-systems.net/index.php/books/ds4/ds4-ebook/)
+- high-lvl understanding (BEFORE lecture): [[Roberto Vitillo - Understanding Distributed Systems - 2nd Edition (2022).pdf | Understanding Distributed Systems]]
+- future research papers (BEFORE lecture)
+	popular, timeless fundamentals not newest cutting edge tech
+- highly recommend for app-lvl data job: [Designing Data-Intensive Applications](https://learning.oreilly.com/videos/designing-data-intensive-applications/9781663728289/)
+## Background Knowledge
+- learn Go in this class, so python knowledge helps
+- application lvl - http
+- transport layer - TCP
+- DNS - name resolution

@@ -2,19 +2,6 @@
 Slides: 
 Recording: https://bruinlearn.ucla.edu/courses/198870/modules/items/7144928
 ---
-# C174C
-## Grading
-Assignments 0%, 20%, 20%
-Midterm 20%
-Team Project 40%
-Max 3 day late -10%/day
-No output = 0
-tiny-graphics.js WebGL 2.0 and starter code
-Textbook Computer Animation Rick Parent
-Refresh matrix and vector algebra and math physics in class
-
-branch.education
-
 # C174A refresher
 - how video game graphics work (backbone steps ^ for every game ever)
 - How gpus work
@@ -22,7 +9,6 @@ branch.education
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C8YtdC8mxTU?si=8bYn_ZvRSBDWcD0L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 - graphics = millions of verticies, triangles, colors/textures, etc. virtual sun
 - processed 1s and 0s with computer GPU? 
-[[c7b1eab729c5f462fbd12e04b85862f2_MD5.jpeg|Open: Pasted image 20250115104051.png]]
 ![[c7b1eab729c5f462fbd12e04b85862f2_MD5.jpeg]]
 ## 1. Vertex Shading
 - take all meshes/geometric to calculate 2D view screen, ignore rest
@@ -51,21 +37,17 @@ branch.education
 	- diffuse (light source, aka direction of light and direction of triangle surface (normal)
 		- if normal align with light (cosine is 1) maximum light intensity coeff
 		- clamped so not reach 0, to account scattered ambient light!
-		- [[b4d429f189ed10db8693a14a4e12ee9f_MD5.jpeg]]
-		- expensive if lots of light sources so limit range of influence + add ambient
-		- [[902db15be36c88ba2d6b181dcaf05559_MD5.jpeg|Open: Pasted image 20250115110530.png]]
+		- expensive if lots of light sources so limit range of influence + add ambient]]
 ![[902db15be36c88ba2d6b181dcaf05559_MD5.jpeg]]
 	- specular (metallic shiny etc.)
 	- improved blinn-phong: 
 ![[179d941dbd5f1b81cada909fc523c416_MD5.jpeg]]
 ### Flat vs Smooth shading
 - flat: one normal for each triangle, bad on curved surf:
-- [[8ab0d759acf727cd25330dc6dbce8926_MD5.jpeg|Open: Pasted image 20250115110751.png]]
 ![[8ab0d759acf727cd25330dc6dbce8926_MD5.jpeg]]
 - smooth: use one averaged normal for multiple triangles to generate more granular, curved fake normals
-- [[0dcfcc648a21c3b5417ebcba408b51a3_MD5.jpeg|Open: Pasted image 20250115110919.png]]
 ![[0dcfcc648a21c3b5417ebcba408b51a3_MD5.jpeg]]
-  [[94a946550fab035d4f954a39a66034d2_MD5.jpeg|Open: Pasted image 20250115110820.png]]
+
 ![[94a946550fab035d4f954a39a66034d2_MD5.jpeg]]
 
 Ray Tracing: accurate lighting like in CGI renderings
@@ -88,24 +70,23 @@ Types of CPU tech
 reverse sun-->obj-->camera to focus calculations
 insane parallel operation (each pixel independent, calculate same thousand rays for each)
 primary ray: camera->obj (avg of the chair's base colors)
-[[7983310b5ff5c96610c0a209bcf9a217_MD5.jpeg|Open: Pasted image 20250115112207.png]]
+
 ![[7983310b5ff5c96610c0a209bcf9a217_MD5.jpeg]]
 ## Global illumination (10:07)
 but not flat image of base colors only, need to account for gradient of blues on pole based on surface facing window/lamp (direct illumination, primary ray --> shadow rays in direction of each light sources) and bounced light from wall (indirect illumination)
 
 shadow rays: rays sent to light source blocked by other triangles so that means no direct light
-[[24f9aa1dcda95494c55fed2c00b5e867_MD5.jpeg|Open: Pasted image 20250115113015.png]]
+
 ![[24f9aa1dcda95494c55fed2c00b5e867_MD5.jpeg]]
 
 indirect illumination visualization from the walls to shadow part of pole, aka 1. hit obj realize it is in shadow 2. generate secondary rays perpendicular 3. hit wall 4. wall light can reach light then illuminate pole with color of wall, repeat step 2 until step 3 hits something an
-[[9520b323c5db5533b224f3044879f7fd_MD5.jpeg|Open: Pasted image 20250115113319.png]]
+
 ![[9520b323c5db5533b224f3044879f7fd_MD5.jpeg]]
-[[bf73617112c2e379d3e2db8742169c4b_MD5.jpeg|Open: Pasted image 20250115113121.png]]
+
 ![[bf73617112c2e379d3e2db8742169c4b_MD5.jpeg]]
 
-[[fb5c26c7744c772b060a4d4abf85fa00_MD5.jpeg|Open: Pasted image 20250115112729.png]]
 ![[fb5c26c7744c772b060a4d4abf85fa00_MD5.jpeg]]
-[[f8cb65cbc130d59e1d37e1ea68f88683_MD5.jpeg|Open: Pasted image 20250115113756.png]]
+
 ![[f8cb65cbc130d59e1d37e1ea68f88683_MD5.jpeg]]
 
 adjust settings:
