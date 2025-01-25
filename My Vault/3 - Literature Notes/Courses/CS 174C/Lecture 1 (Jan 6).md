@@ -2,7 +2,7 @@
 Slides: 
 Recording: https://bruinlearn.ucla.edu/courses/198870/modules/items/7144928
 ---
-# C174A refresher
+# B.E: C174A refresher
 - how video game graphics work (backbone steps ^ for every game ever)
 - How gpus work
 - How ray tracing works
@@ -57,7 +57,7 @@ Types of CPU tech
 - CUDA:  regular gpu rendering pipline as discussed
 - DLSS: tensor cores
 
-# Ray Tracing
+# B.E: Ray Tracing
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iOlehM5kNSk?si=PTEetcbMgEJAp1E6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Path Tracing (industry standard)
