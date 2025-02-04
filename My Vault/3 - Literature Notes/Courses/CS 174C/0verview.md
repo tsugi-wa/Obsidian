@@ -1,14 +1,17 @@
 ## Lecture/Topic Index
 
-| Week | Lecture                | Summary                                           |
-| ---- | ---------------------- | ------------------------------------------------- |
-| 1.1  | [[Lecture 1 (Jan 6)]]  | C174A refresher vids, RT, syllabus                |
-| 1.2  | [[Lecture 2 (Jan 8)]]  | GPU architecture, animation principles/approaches |
-| 2.1  | [[Lecture 3 (Jan 13)]] |                                                   |
-| 2.2  | [[Lecture 4 (Jan 15)]] |                                                   |
-| 3    | [[Lecture 6 (Jan 22)]] |                                                   |
-
-## Readings
+| Week | Lecture                | Summary                                                  |
+| ---- | ---------------------- | -------------------------------------------------------- |
+| 1.1  | [[Lecture 1 (Jan 6)]]  | C174A refresher vids, RT, syllabus                       |
+| 1.2  | [[Lecture 2 (Jan 8)]]  | GPU architecture, animation principles/approaches        |
+| 2.1  | [[Lecture 3 (Jan 13)]] | Linear Algebra Review, basics (vectors, matrix, transf.) |
+| 2.2  | [[Lecture 4 (Jan 15)]] | Rotation representations (intro to quaternions)          |
+| 3    | [[Lecture 5 (Jan 22)]] |                                                          |
+| 4.1  | Lecture 6 (Jan 27)     |                                                          |
+| 4.2  | Lecture 7 (Jan 29)     |                                                          |
+|      |                        |                                                          |
+Week 7 Wednesday Feb 19 - Midterm
+## Readings 
 
 | Week | Reading (required) | Reading (reference) |     |
 | ---- | ------------------ | ------------------- | --- |
