@@ -10,7 +10,7 @@ basic particle animation:
 - velocity field v(x,t) x=point in space, t=time
 - delta t = simulation time step = 1/30 sec if 30fps
 -  get next pos of particle x(t) by integrating over time step
-	- Forward Euler integration:
+	- ==Forward Euler integration==:
 		- use definition of derivative to solve for new pos
 		- ![[95515a82429b7256fae48fa572fabd4d_MD5.jpeg]]
 		- v(x(t),t) = cur velocity of cur pos in vector field x dt + cur pos to move us 
@@ -42,9 +42,22 @@ basic particle animation:
 	- 2nd order dynamic motion of mass particles 
 	- ==f=ma = m dv/dt==   so derive acceleration and integrate for velocity and again for pos
 	- forces i.e. from gravitational and collision and vector fields
-	- ![[38bc659749d9c467e5efb88613c557bb_MD5.jpeg]]
+	- ==Symplectic Euler==![[38bc659749d9c467e5efb88613c557bb_MD5.jpeg]]
 	- divide time into delta t steps from t0 
 - ==mass-spring-damper systems==
 	- connected massed particles
 	- springs and dampers also produce forces (piston resists velocity + elastically)
-	- 
+	- ![[714c074698f3d35ef31340fa8ac110d4_MD5.jpeg]]
+- putting it together
+	- particles, array P\[i] w/: mass, pos, velocity, net force f (accumulated)
+	- springs, array S\[k] w/: ptr_particle_i, ptr_particle_j, spring & length constants, damper constant
+	- environment: gravity, external force, force fields
+	- initialization: P\[i].x = x_i (0);  P\[i].v = v_i(0) initial pos and velocities
+- simulation loop
+	- for each particle, initialize forces to 0
+	- for all k springs, compute visco-elastic force f^e_ij and accumulate its pos for P\[i] and neg for P\[j]
+	- for all i particles, accumulate external forces acting on P\[i]
+	- for all i particles, update ==Symplectic== 
+		- P\[i].v += delta t (P\[i].f)/P\[i].m
+		- P\[i].x += delta t  P\[i].v
+	- update t += delta t and repeat.
