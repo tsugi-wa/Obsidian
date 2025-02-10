@@ -38,3 +38,13 @@ basic particle animation:
 	- line between positions instead of dot? i.e. open shutter time
 	- alpha blending, or use spline curve
 	- particle radius? burning? reduces in size? 
+- physics based motion (30:00)
+	- 2nd order dynamic motion of mass particles 
+	- ==f=ma = m dv/dt==   so derive acceleration and integrate for velocity and again for pos
+	- forces i.e. from gravitational and collision and vector fields
+	- ![[38bc659749d9c467e5efb88613c557bb_MD5.jpeg]]
+	- divide time into delta t steps from t0 
+- ==mass-spring-damper systems==
+	- connected massed particles
+	- springs and dampers also produce forces (piston resists velocity + elastically)
+	- 
