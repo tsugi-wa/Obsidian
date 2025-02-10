@@ -10,7 +10,7 @@ basic particle animation:
 - velocity field v(x,t) x=point in space, t=time
 - delta t = simulation time step = 1/30 sec if 30fps
 -  get next pos of particle x(t) by integrating over time step
-	- ==Forward Euler integration==:
+	- ==Forward Euler integration (EXPLICIT)== :
 		- use definition of derivative to solve for new pos
 		- ![[95515a82429b7256fae48fa572fabd4d_MD5.jpeg]]
 		- v(x(t),t) = cur velocity of cur pos in vector field x dt + cur pos to move us 
