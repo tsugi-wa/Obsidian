@@ -1,86 +1,41 @@
 {
   "main": {
-    "id": "a2fa7f0846537199",
+    "id": "2e9225e34664efd4",
     "type": "split",
     "children": [
       {
-        "id": "19fe2bf0ac5227f4",
+        "id": "0571c1c94d829fac",
         "type": "tabs",
         "children": [
           {
-            "id": "bc7d032c15dd994c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Vault/3 - Literature Notes/Courses/CS 174C/0verview.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "0verview"
-            }
-          },
-          {
-            "id": "4b132175837b188a",
+            "id": "2d8837e6263008e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Vault/3 - Literature Notes/Courses/CS 174C/Lecture 8 (Feb 3).md",
+                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 3 (Jan 13).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 8 (Feb 3)"
-            }
-          },
-          {
-            "id": "7f556debd2b67d88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTERVIEW 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "INTERVIEW 2025"
-            }
-          },
-          {
-            "id": "d86cd17ad6114c3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Vault/3 - Literature Notes/Courses/CS 174C/Lecture 9 (Feb 5).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 9 (Feb 5)"
+              "title": "Lecture 3 (Jan 13)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5c27505cc8b366bf",
+    "id": "1243752a4df710bb",
     "type": "split",
     "children": [
       {
-        "id": "ad32a485d7edcabd",
+        "id": "8a4c81639dc8783e",
         "type": "tabs",
         "children": [
           {
-            "id": "326bf44960146721",
+            "id": "b77831b90dd9f87b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -93,12 +48,12 @@
             }
           },
           {
-            "id": "16a02d8f4aae1c76",
+            "id": "0829eb50dbb8a2b3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "most",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +65,7 @@
             }
           },
           {
-            "id": "b63de53b5db5187e",
+            "id": "436d75c49c949463",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -123,23 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 300
   },
   "right": {
-    "id": "2b2410f31f016073",
+    "id": "ba1ec06a672fb227",
     "type": "split",
     "children": [
       {
-        "id": "cb1fe99563e15da8",
+        "id": "6cea78168fbf9ccd",
         "type": "tabs",
         "children": [
           {
-            "id": "ffb322b4d1646290",
+            "id": "2aa5a4c073617928",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 3 (Jan 13).md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -148,118 +104,80 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lecture 3 (Jan 13)"
             }
           },
           {
-            "id": "7fbd010e0e8f1d75",
+            "id": "5acb7020384970a8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Vault/3 - Literature Notes/Courses/CS 134/Lecture 7 (10-21-2024).md",
+                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 3 (Jan 13).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 7 (10-21-2024)"
+              "title": "Outgoing links from Lecture 3 (Jan 13)"
             }
           },
           {
-            "id": "8c91c47612cbc189",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "My Vault/3 - Literature Notes/Courses/CS 174C/Lecture 8 (Feb 3).md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Lecture 8 (Feb 3)"
-            }
-          },
-          {
-            "id": "659df6bcae879067",
+            "id": "f850ba7e9e699bea",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "2d9129bb8dcf7983",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 3 (Jan 13).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lecture 3 (Jan 13)"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.1\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "326bf44960146721",
+  "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "3 - Literature Notes/Courses/DH 150/Untitled.md",
-    "INTERVIEW 2025.md",
-    "2 - Source Material/images/Pasted image 20241121143900.png",
-    "2 - Source Material/images/Pasted image 20241121145011.png",
-    "2 - Source Material/images/38bc659749d9c467e5efb88613c557bb_MD5.jpeg",
-    "2 - Source Material/images/Pasted image 20241121171123.png",
-    "3 - Literature Notes/Courses/CS 174C/0verview.md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 9 (Feb 5).md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 8 (Feb 3).md",
-    "2 - Source Material/images/714c074698f3d35ef31340fa8ac110d4_MD5.jpeg",
-    "Pasted image 20250210085038.png",
-    "Pasted image 20250210082606.png",
-    "2 - Source Material/images/95515a82429b7256fae48fa572fabd4d_MD5.jpeg",
-    "Pasted image 20250210080855.png",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 5 (Jan 22).md",
-    "2 - Source Material/images/fe082c76accecc9bd0f5700351900768_MD5.jpeg",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 2 (Jan 8).md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 4 (Jan 15).md",
     "3 - Literature Notes/Courses/CS 174C/Lecture 3 (Jan 13).md",
+    "3 - Literature Notes/Courses/CS 174C/Lecture 2 (Jan 8).md",
     "3 - Literature Notes/Courses/CS 174C/Lecture 1 (Jan 6).md",
-    "7  - Archive/Unofficial Transcript til Spring 2024.pdf",
-    "3 - Literature Notes/Courses/CS 174C",
-    "2 - Source Material/courses/24F_CS134_LEC2.pdf",
-    "My Vault/2 - Source Material/courses/Benshoff & Griffin “Visual Pleasure and Narrative Cinema Actions”.pdf",
-    "7  - Archive/Dream ITX build.md",
-    "3 - Literature Notes/Courses/speaker notes.md",
-    "3 - Literature Notes/Courses/CS 134/Lecture 9 (10-28-2024).md",
-    "3 - Literature Notes/Courses/CS 134/Lecture 10 (10-30-2024).md",
-    "3 - Literature Notes/Courses/CS 134/0verview.md",
-    "conflict-files-obsidian-git.md",
-    "3 - Literature Notes/Courses/FILM TV 6A/1910-20s silent women films.md",
-    "6 - Templates/lecture metadata.md",
-    "3 - Literature Notes/Courses/CS 134/Lecture 8 (10-23-2024).md",
-    "3 - Literature Notes/Courses/CS 134/Go Basics.md",
-    "3 - Literature Notes/Courses/CS 134/Lecture 7 (10-21-2024).md",
-    "My Vault/3 - Literature Notes/Courses/CS 134/Lecture 7.md",
-    "My Vault/3 - Literature Notes/Courses/CS 134/Lecture 7.md.crdownload",
-    "3 - Literature Notes/Courses/CS 134/Lecture 5 (10-14-2024).md",
-    "3 - Literature Notes/Courses/Options Trading.md",
-    "Lecture 6 (10-16-2024).md",
-    "3 - Literature Notes/Courses/FILM TV 6A/Week 6 Reading Notes.md",
-    "My Vault/3 - Literature Notes/Courses/CS 134/0verview.pdf",
-    "My Vault/3 - Literature Notes/Courses/CS 134/Lecture 2 (10-2-2024).pdf",
-    "My Vault/3 - Literature Notes/Courses/CS 134/Lecture 1 (9-30-2024).pdf",
-    "My Vault/2 - Source Material/literature/EP.6.v1.1710489666.1080p.mp4.crdownload",
-    "2 - Source Material/literature/FILM 6A Midterm.docx"
+    "category-folder/index.md",
+    "category-folder/Some note.md",
+    "index.md",
+    "category-folder"
   ]
 }

@@ -4,7 +4,7 @@
 - 1972 3D computer graphics from University of Utah
 	- 1st computer vision thesis Roberts from MIT
 	- 1st computer graphics thesis from Ivan Sutherland from MIT (Ed Catmull, later founder of Pixar)
-	- ![[929f1645f96c3ca50ba2d419ca552b6e_MD5.jpeg#invertW]]![[89133a399597a3532c0112917ed2eaa6_MD5.jpeg#invertW]] 
+	- ![[929f1645f96c3ca50ba2d419ca552b6e_MD5.jpeg#invert]]![[89133a399597a3532c0112917ed2eaa6_MD5.jpeg#invertW]] 
 	- convert 3D model of hand/face with labeled polygons into 3D model that can be puppetted w/ cosine interpolation
 - 1980 Pixar b4 Pixar (George Lucas, Star Wars later, Ed Catmull)
 	- famous Utah teapot model, freeflying camera of terrain
