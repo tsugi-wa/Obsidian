@@ -1,3 +1,8 @@
+---
+title: My GitHub Pages Notebook!
+---
+
+
 ok then I want a letter of rec that shows more of my behavioral features i.e.
 
 # Introductions and project/situation/relationship
